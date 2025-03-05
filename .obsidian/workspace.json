@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
+                "file": "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tvorba postavy"
+              "title": "Tiny Dungeons Playtest 5.3"
             }
           }
         ],
@@ -210,13 +210,15 @@
   },
   "active": "5c50e755b02df4d8",
   "lastOpenFiles": [
+    "DnD/Oneshots/Bordel/Inkviziční příkaz.md",
+    "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
+    "DnD/Oneshots/Tiny Dungeons/pdfcoffee.com_tiny-dungeon-2e-2-pdf-free.pdf",
+    "Untitled.md",
+    "DnD/Oneshots/Bordel",
     "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
     "DnD/Oneshots/Tiny Dungeons/Race list.md",
     "DnD/Oneshots/Tiny Dungeons/Trait list.md",
-    "DnD/Oneshots/Tiny Dungeons/pdfcoffee.com_tiny-dungeon-2e-2-pdf-free.pdf",
-    "DnD/Oneshots/5.3.md",
     "DnD/Oneshots/Tiny Dungeons",
-    "Untitled.md",
     "škola",
     "DnD/Pathfinder/Zápisy.md",
     "DnD/Pathfinder/Před Bobrinovo deníkem.md",
@@ -239,7 +241,6 @@
     "Test.md",
     "test.md",
     "gitt/test.md",
-    "gitt",
     "Welcome.md"
   ]
 }
