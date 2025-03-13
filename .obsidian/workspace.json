@@ -8,49 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a07469efe772769d",
+            "id": "d6840f7b1af7b75d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Oneshots/Tiny Dungeons/Trait list.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Trait list"
-            }
-          },
-          {
-            "id": "52b9c8fda80ca37e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Oneshots/Tiny Dungeons/Race list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Race list"
-            }
-          },
-          {
-            "id": "5c50e755b02df4d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tiny Dungeons Playtest 5.3"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,6 +156,26 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "42a216dfa3b1cc64",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "67072aca9c73c24f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -208,16 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c50e755b02df4d8",
+  "active": "d6840f7b1af7b75d",
   "lastOpenFiles": [
-    "DnD/Oneshots/Bordel/Inkviziční příkaz.md",
-    "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
-    "DnD/Oneshots/Tiny Dungeons/pdfcoffee.com_tiny-dungeon-2e-2-pdf-free.pdf",
-    "Untitled.md",
-    "DnD/Oneshots/Bordel",
-    "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
     "DnD/Oneshots/Tiny Dungeons/Race list.md",
+    "IRL stuff/2025-03-06.md",
+    "2025-03-13.md",
+    "IRL stuff/2025-03-13.md",
+    "DnD/Městečko Střediskové/Zápisy.md",
+    "DnD/Městečko Střediskové/Lazar Herber.md",
+    "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
+    "IRL stuff",
+    "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
     "DnD/Oneshots/Tiny Dungeons/Trait list.md",
+    "DnD/Oneshots/Bordel/Inkviziční příkaz.md",
+    "DnD/Oneshots/Tiny Dungeons/pdfcoffee.com_tiny-dungeon-2e-2-pdf-free.pdf",
+    "DnD/Oneshots/Bordel",
     "DnD/Oneshots/Tiny Dungeons",
     "škola",
     "DnD/Pathfinder/Zápisy.md",
@@ -225,7 +217,6 @@
     "DnD/Pathfinder/Bobrinův deník.md",
     "DnD/Pathfinder",
     "DnD/Oneshots",
-    "DnD/Městečko Střediskové/Zápisy.md",
     "DnD/Městečko Střediskové/WHRPG4e taháky.md",
     "DnD/Městečko Střediskové/Mapy.md",
     "DnD/Městečko Střediskové",
@@ -237,7 +228,6 @@
     "DnD/bordel/My_World_2.jpg",
     "DnD/bordel/mapa světa.jpeg",
     "DnD/bordel",
-    "DnD",
     "Test.md",
     "test.md",
     "gitt/test.md",
