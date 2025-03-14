@@ -19,5 +19,5 @@ Dohnali jsme jednoho, který byl postřelený šipkou u nějaké prázdné mokr�
 Pak jsme přenocovali v táboře a vydali se dále po cestě.
 
 ### 30.10.1859:
-Dorazili jsme do menší vesnice [[]]. Vesnice je to zaměřená na chov dobytka, tady bude dost jídla.
+Dorazili jsme do menší vesnice [[Daldaro]]. Vesnice je to zaměřená na chov dobytka, tady bude dost jídla.
 Hospoda! Tomas nepije pivo, ale pije mlíko?! Mlíkař Tomas.

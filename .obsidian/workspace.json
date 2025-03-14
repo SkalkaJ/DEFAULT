@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Pathfinder/Bobrinův deník.md",
+                "file": "DnD/Pathfinder/Mapa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bobrinův deník"
+              "title": "Mapa"
             }
           }
         ],
@@ -216,13 +216,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e551dfb920488697",
+  "active": "911c60dfe9d71a97",
   "lastOpenFiles": [
-    "DnD/Pathfinder/Zápisy.md",
+    "Pasted image 20250314194644.png",
     "DnD/Pathfinder/Bobrinův deník.md",
+    "DnD/Pathfinder/Mapa.md",
+    "Pasted image 20250314194444.png",
+    "DnD/Pathfinder/Zápisy.md",
     "DnD/Pathfinder/Da Memes.md",
     "DnD/Pathfinder/OOC Mimo deník.md",
     "DnD/bordel/Pasted image 20250314184156.png",
