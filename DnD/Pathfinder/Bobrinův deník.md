@@ -1,6 +1,6 @@
 ### 25.10.1859:
 Dorazili jsme s praporem do [[Tardis]].
-Tam jsme strávili tři dny různými pracemi, já jsem se věnoval pylnému studiu nových kouzel od místního čaroděje.
+Tam jsme strávili tři dny různými pracemi, já jsem se věnoval pylnému studiu nových kouzel od místního čaroděje. Jo a taky jsem si koupil tuhle blboknížečku.
 Místní čaroděj je pěknej debil, taky studoval na [[Barganar]]u.
 Ten čaroděj je vtipnej, někdy se musím zase stavit na čaj. Bude mít radost. A taky možná dostanu fireball do obličeje... To kouzlo se chci naučit.
 ### 28.10.1859:
