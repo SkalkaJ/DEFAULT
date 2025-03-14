@@ -20,4 +20,5 @@ Pak jsme přenocovali v táboře a vydali se dále po cestě.
 
 ### 30.10.1859:
 Dorazili jsme do menší vesnice [[Daldaro]]. Vesnice je to zaměřená na chov dobytka, tady bude dost jídla.
-Hospoda! Tomas nepije pivo, ale pije mlíko?! Mlíkař Tomas.
+Hospoda! Tomas nepije pivo, ale pije mlíko?! Mlíkař Tomas. gambling
+Po poledni jsme vyrazili dále
