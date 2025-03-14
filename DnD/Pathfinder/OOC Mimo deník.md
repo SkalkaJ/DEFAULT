@@ -6,3 +6,7 @@ Ten je pak poslal do ruin Yngrealu, kde mají získat zdroj nekrotické magie.
 Dalšího dne se tedy vydali do Západních Království, kde se Lesem Křišťálů podélně s Krystalovým pohořím vydali do Yngrealu.
 V lesích narazili na jakousi nekrotickou nákazu způsobenou nejspíš nějakým druhem hub.
 Také spozorovali záhadnou dřevěnou strukturu v horách.
+
+
+
+14.3.2025 ![[Record 2025-03-14 at 18h06m26s.wav]]

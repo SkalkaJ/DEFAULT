@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ebf3611010041131",
+        "id": "1a8f88e8df10369e",
         "type": "tabs",
         "children": [
           {
-            "id": "d6840f7b1af7b75d",
+            "id": "2e952866f14d1992",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Pathfinder/Bobrinův deník.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bobrinův deník"
+            }
+          },
+          {
+            "id": "e551dfb920488697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Pathfinder/Zápisy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zápisy"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -29,6 +48,7 @@
       {
         "id": "19c87e4a845f96ec",
         "type": "tabs",
+        "dimension": 75.01789549033644,
         "children": [
           {
             "id": "911c60dfe9d71a97",
@@ -71,6 +91,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "462b07d36112309e",
+        "type": "tabs",
+        "dimension": 24.982104509663564,
+        "children": [
+          {
+            "id": "67072aca9c73c24f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +145,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -138,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -166,23 +200,13 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "67072aca9c73c24f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,39 +219,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6840f7b1af7b75d",
+  "active": "911c60dfe9d71a97",
   "lastOpenFiles": [
-    "DnD/Oneshots/Tiny Dungeons/Race list.md",
-    "IRL stuff/2025-03-06.md",
-    "2025-03-13.md",
-    "IRL stuff/2025-03-13.md",
-    "DnD/Městečko Střediskové/Zápisy.md",
-    "DnD/Městečko Střediskové/Lazar Herber.md",
+    "DnD/Pathfinder/Bobrinův deník.md",
+    "DnD/Pathfinder/Zápisy.md",
+    "DnD/Pathfinder/OOC Mimo deník.md",
+    "DnD/Pathfinder/Da Memes.md",
+    "DnD/bordel/Pasted image 20250314184156.png",
+    "DnD/bordel/Pasted image 20250314183926.png",
+    "DnD/Records/Record 2025-03-14 at 18h06m26s.wav",
+    "DnD/Městečko Střediskové/2025-03-13 Městečko Střediskové.md",
     "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
-    "IRL stuff",
-    "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
     "DnD/Oneshots/Tiny Dungeons/Trait list.md",
+    "DnD/Oneshots/Tiny Dungeons/Race list.md",
+    "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
+    "DnD/Městečko Střediskové/WHRPG4e taháky.md",
+    "DnD/Městečko Střediskové/Zápisy.md",
+    "DnD/Městečko Střediskové/Mapy.md",
+    "DnD/Městečko Střediskové/Lazar Herber.md",
+    "DnD/Records/Record 2025-03-13 at 22h01m46s.wav",
+    "DnD/bordel/Pasted image 20250313194216.png",
+    "DnD/Records",
+    "DnD/New folder",
+    "recording-multitrack-2025-03-13T20-59-26-331Z.wav",
+    "recording-multitrack-2025-03-13T20-58-10-329Z.wav",
+    "recording-multitrack-2025-03-13T20-57-57-241Z.wav",
+    "IRL stuff/2025-03-06.md",
+    "IRL stuff",
     "DnD/Oneshots/Bordel/Inkviziční příkaz.md",
     "DnD/Oneshots/Tiny Dungeons/pdfcoffee.com_tiny-dungeon-2e-2-pdf-free.pdf",
     "DnD/Oneshots/Bordel",
-    "DnD/Oneshots/Tiny Dungeons",
-    "škola",
-    "DnD/Pathfinder/Zápisy.md",
-    "DnD/Pathfinder/Před Bobrinovo deníkem.md",
-    "DnD/Pathfinder/Bobrinův deník.md",
-    "DnD/Pathfinder",
-    "DnD/Oneshots",
-    "DnD/Městečko Střediskové/WHRPG4e taháky.md",
-    "DnD/Městečko Střediskové/Mapy.md",
-    "DnD/Městečko Střediskové",
     "DnD/Kampaň 2/Timeline.md",
     "DnD/Kampaň 2/Sezení x+1.md",
     "DnD/Kampaň 2/Sezení 1-x.md",
-    "DnD/Kampaň 2",
     "DnD/bordel/Pasted image 20250304133202.png",
     "DnD/bordel/My_World_2.jpg",
     "DnD/bordel/mapa světa.jpeg",
-    "DnD/bordel",
     "Test.md",
     "test.md",
     "gitt/test.md",
