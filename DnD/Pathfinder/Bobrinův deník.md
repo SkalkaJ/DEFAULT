@@ -12,3 +12,6 @@ přenocovali jsme na kraji lesa. Bez problémů.
 Z rána jsme pokračovali v pouti.
 Přepadli nás banditi - Těm jsme se ubránili, i když až po utržení těžkých ran.
 [Záznam sezení](https://drive.google.com/file/d/1YDpvdO072jXug5PV0tobsQudfMNg4Xeu/view?usp=drive_link)
+Dva banditi nám ale utekli, ty jsme pak pronásledovali.
+Nalezli jsme jejich tábor -  Tomas zase všechno vykradl. Dluží všem několik piv a obědů.
+Dohnali jsme jednoho, který byl postřelený šipkou u nějaké prázdné mokré jeskyně.
