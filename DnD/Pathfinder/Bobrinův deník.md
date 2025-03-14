@@ -22,3 +22,4 @@ Pak jsme přenocovali v táboře a vydali se dále po cestě.
 Dorazili jsme do menší vesnice [[Daldaro]]. Vesnice je to zaměřená na chov dobytka, tady bude dost jídla.
 Hospoda! Tomas nepije pivo, ale pije mlíko?! Mlíkař Tomas. gambling
 Po poledni jsme vyrazili dále
+
