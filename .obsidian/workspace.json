@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Pathfinder/Mapa.md",
+                "file": "DnD/Pathfinder/OOC Mimo deník.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapa"
+              "title": "OOC Mimo deník"
             }
           }
         ],
@@ -220,15 +220,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "911c60dfe9d71a97",
+  "active": "e551dfb920488697",
   "lastOpenFiles": [
-    "DnD/bordel/Pasted image 20250314194644.png",
     "DnD/Pathfinder/Bobrinův deník.md",
-    "DnD/Pathfinder/Mapa.md",
-    "DnD/bordel/Pasted image 20250314194444.png",
-    "DnD/Pathfinder/Zápisy.md",
     "DnD/Pathfinder/Da Memes.md",
     "DnD/Pathfinder/OOC Mimo deník.md",
+    "DnD/Pathfinder/Zápisy.md",
+    "DnD/Pathfinder/Mapa.md",
+    "DnD/bordel/Pasted image 20250314194644.png",
+    "DnD/bordel/Pasted image 20250314194444.png",
     "DnD/bordel/Pasted image 20250314184156.png",
     "DnD/bordel/Pasted image 20250314183926.png",
     "DnD/Records/Record 2025-03-14 at 18h06m26s.wav",

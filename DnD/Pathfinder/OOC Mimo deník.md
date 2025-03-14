@@ -9,4 +9,4 @@ Také spozorovali záhadnou dřevěnou strukturu v horách.
 
 
 
-14.3.2025 ![[Record 2025-03-14 at 18h06m26s.wav]]
+14.3.2025 [Part1](https://drive.google.com/file/d/1YDpvdO072jXug5PV0tobsQudfMNg4Xeu/view?usp=drive_link)[Part2]()
