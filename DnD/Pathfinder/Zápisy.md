@@ -9,7 +9,7 @@
 [[Bobrin]]
 
 ## NPCs:
-[[]Erbiros Gramnas]]- Akademik, který zkoumá kult a snaží se nám pomoci
+[[Erbiros Gramnas]]- Akademik, který zkoumá kult a snaží se nám pomoci
 
 ## Lokace:
 [[Barganar]]- Akademické město, Bobrin tam studoval
