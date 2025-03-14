@@ -11,4 +11,4 @@ přenocovali jsme na kraji lesa. Bez problémů.
 ### 29.10.1859:
 Z rána jsme pokračovali v pouti.
 Přepadli nás banditi - Těm jsme se ubránili, i když až po utržení těžkých ran.
-Záznam sezení![[Record 2025-03-14 at 18h06m26s.wav]]
+[Záznam sezení](https://drive.google.com/file/d/1YDpvdO072jXug5PV0tobsQudfMNg4Xeu/view?usp=drive_link)
