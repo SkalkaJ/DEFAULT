@@ -16,3 +16,8 @@ Přepadli nás banditi - Těm jsme se ubránili, i když až po utržení těžk
 Dva banditi nám ale utekli, ty jsme pak pronásledovali.
 Nalezli jsme jejich tábor -  Tomas zase všechno vykradl. Dluží všem několik piv a obědů.
 Dohnali jsme jednoho, který byl postřelený šipkou u nějaké prázdné mokré jeskyně.
+Pak jsme přenocovali v táboře a vydali se dále po cestě.
+
+### 30.10.1859:
+Dorazili jsme do menší vesnice [[]]. Vesnice je to zaměřená na chov dobytka, tady bude dost jídla.
+Hospoda! Tomas nepije pivo, ale pije mlíko?! Mlíkař Tomas.
