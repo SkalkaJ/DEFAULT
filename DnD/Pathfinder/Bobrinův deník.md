@@ -1,7 +1,8 @@
 ### 25.10.1859:
 Dorazili jsme s praporem do [[Tardis]].
 Tam jsme strávili tři dny různými pracemi, já jsem se věnoval pylnému studiu nových kouzel od místního čaroděje.
-Místní čaroděj je pěknej debil, taky studoval na [[Barganar]].
+Místní čaroděj je pěknej debil, taky studoval na [[Barganar]]u.
+Ten čaroděj je vtipnej, někdy se musím zase stavit na čaj. Bude mít radost. A taky možná dostanu fireball do obličeje... To kouzlo se chci naučit.
 ### 28.10.1859:
 Vyrazili jsme z [[Tardis]].
 Dorazili jsme do větší vesnice [[Bertel]], hospoda u krále Trotla (Torta) - hospodský prase
