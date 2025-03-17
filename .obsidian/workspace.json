@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e952866f14d1992",
+            "id": "662fb0fd23414ab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Městečko Střediskové/Mapy.md",
+                "file": "DnD/Kampaň 2/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mapy"
-            }
-          },
-          {
-            "id": "e551dfb920488697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-03-16.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-16"
+              "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,14 +204,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e551dfb920488697",
+  "active": "911c60dfe9d71a97",
   "lastOpenFiles": [
+    "Records/Record 2025-03-17 at 18h35m22s.wav",
+    "Records/Record 2025-03-14 at 23h08m29s.wav",
+    "Records/Record 2025-03-14 at 23h11m57s.wav",
+    "Records/Pathfinder 14.3_part1.mp3",
+    "Records/Record 2025-03-14 at 19h00m07s.wav",
+    "Records/Pathfinder 14.3_part1.wav",
+    "Records/Record 2025-03-13 at 22h01m46s.wav",
+    "Records",
+    "DnD/Kampaň 2/NPCs.md",
     "DnD/Městečko Střediskové/Zápisy.md",
-    "2025-03-16.md",
-    "DnD/Městečko Střediskové/Mapy.md",
     "DnD/Městečko Střediskové/WHRPG4e taháky.md",
+    "DnD/Městečko Střediskové/Mapy.md",
     "DnD/Městečko Střediskové/Lazar Herber.md",
     "DnD/Městečko Střediskové/2025-03-13.md",
+    "DnD/Kampaň 2/Timeline.md",
+    "DnD/Kampaň 2/NPCs",
+    "DnD/Kampaň 2/NPCs/Natt.md",
+    "DnD/Kampaň 2/NPCs/Anasi.md",
+    "DnD/Kampaň 2/NPCs/Lustravious.md",
+    "DnD/Kampaň 2/NPCs/Kaimon Aboot.md",
+    "DnD/Kampaň 2/Korupce.md",
+    "DnD/bordel/z3 Kaimon Aboot.webp",
+    "2025-03-16.md",
     "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
     "IRL stuff/2025-03-06.md",
     "DnD/Pathfinder/Bobrinův deník.md",
@@ -248,22 +250,6 @@
     "DnD/bordel/Pasted image 20250304133202.png",
     "DnD/bordel/My_World_2.jpg",
     "DnD/bordel/mapa světa.jpeg",
-    "DnD/Kampaň 2/Sezení 1-x.md",
-    "DnD/Kampaň 2/Sezení x+1.md",
-    "DnD/Kampaň 2/Timeline.md",
-    "DnD/Městečko Střediskové/2025-03-.md",
-    "DnD/Records/Record 2025-03-14 at 18h06m26s.wav",
-    "DnD/Records/Record 2025-03-13 at 22h01m46s.wav",
-    "DnD/Records",
-    "DnD/New folder",
-    "recording-multitrack-2025-03-13T20-59-26-331Z.wav",
-    "recording-multitrack-2025-03-13T20-58-10-329Z.wav",
-    "recording-multitrack-2025-03-13T20-57-57-241Z.wav",
-    "IRL stuff",
-    "DnD/Oneshots/Bordel",
-    "Test.md",
-    "test.md",
-    "gitt/test.md",
-    "Welcome.md"
+    "DnD/Records/Record 2025-03-14 at 18h06m26s.wav"
   ]
 }

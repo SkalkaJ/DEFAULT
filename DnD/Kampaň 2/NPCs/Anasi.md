@@ -1,0 +1,2 @@
+Anansi je bůh spojovaný s věděním, příběhy, moudrostí a podvodnictvím. V legendách se právě kvůli jeho podvodnictví objevuje jako benevolentní, ale i zákeřný bůh, využívajíc svou dovednost a moudrost v řeči proti tyranům, ale i pro svůj vlastní prospěch. Jeho téměř nekonečného vědění dosáhl díky jeho znalosti všech příběhů, které byli kdy napsány, nebo povězeny a neustálého pozorování světa. jeho podoba se může lišit, ale typická je pro něj podoba pavouka, či humanoida s osmi končetinami.
+

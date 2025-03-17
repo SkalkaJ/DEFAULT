@@ -1,0 +1,5 @@
+the deity of purification and cleansing fire, is said to have been born from the collective hatred and desperation of humanity, driven to the brink by the corruption and the decay of their world.
+Even though he's considered to have positive effect on world his fanatical belief in eradicating corruption knows no mercy. To him, even the smallest sins are seeds of greater evil and must be cleansed.
+It is said that wherever lustravius descends, the earth is scorched by his cleansing flame. Yet, in the places he leaves behind burning lotus petals. These glowing petals are sacred, symbols of purity and renewal. They mark the purified ground where once sin thrived, and they bring back new life.
+Lotus flower in flame is used as a unifying symbol for all lustravius believers. The church of lustravius is not completely organized and is not welcome in most countries due to criticism towards sinful kings and aristocrats.
+His appearance is usually the one of a humanoid figure enveloped in a blinding light holding a white flame sword. Or is also depicted in a form of white falcon.
