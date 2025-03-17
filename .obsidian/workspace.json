@@ -62,7 +62,7 @@
       {
         "id": "19c87e4a845f96ec",
         "type": "tabs",
-        "dimension": 60.50179211469534,
+        "dimension": 60.50179211469535,
         "children": [
           {
             "id": "911c60dfe9d71a97",
@@ -109,7 +109,7 @@
       {
         "id": "1644c110cd703c0d",
         "type": "tabs",
-        "dimension": 14.551971326164875,
+        "dimension": 14.551971326164876,
         "children": [
           {
             "id": "4cce1df62a80f0ed",
@@ -243,6 +243,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "5dc765f5a241c543",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
