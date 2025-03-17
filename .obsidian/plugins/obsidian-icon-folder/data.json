@@ -34,15 +34,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Records": "LiMic",
-  "----------/DnD": "LiDices",
-  "----------/DnD/Kampaň 2": "LiCat",
-  "----------/DnD/bordel": "LiTrash",
-  "----------/DnD/Městečko Střediskové": "LiHouse",
-  "----------/DnD/Oneshots": "LiDice1",
-  "----------/DnD/Pathfinder": "LiAnvil",
-  "----------/IRL stuff": "LiTrees",
-  "----------/škola": "LiBook",
-  "----------/Dluhy.md": "LiDollarSign",
-  "----------/TO DO.md": "LiCheckSquare"
+  "----------------------------------/DnD": "LiDices",
+  "----------------------------------/DnD/Kampaň 2": "LiCat",
+  "----------------------------------/DnD/bordel": "LiTrash",
+  "----------------------------------/DnD/Městečko Střediskové": "LiHouse",
+  "----------------------------------/DnD/Oneshots": "LiDice1",
+  "----------------------------------/DnD/Pathfinder": "LiAnvil",
+  "----------------------------------/IRL stuff": "LiTrees",
+  "----------------------------------/škola": "LiBook",
+  "----------------------------------/Dluhy.md": "LiDollarSign",
+  "----------------------------------/TO DO.md": "LiCheckSquare"
 }
