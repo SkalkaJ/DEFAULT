@@ -18,8 +18,37 @@
               "icon": "lucide-file-audio",
               "title": "Record 2025-03-17 at 18h35m22s"
             }
+          },
+          {
+            "id": "7330334d98fb535e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------/TO DO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO DO"
+            }
+          },
+          {
+            "id": "04a2f625b742f6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------/Dluhy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dluhy"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +60,7 @@
       {
         "id": "19c87e4a845f96ec",
         "type": "tabs",
-        "dimension": 75.01789549033644,
+        "dimension": 60.50179211469534,
         "children": [
           {
             "id": "911c60dfe9d71a97",
@@ -76,9 +105,26 @@
         ]
       },
       {
+        "id": "1644c110cd703c0d",
+        "type": "tabs",
+        "dimension": 14.551971326164875,
+        "children": [
+          {
+            "id": "4cce1df62a80f0ed",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
         "id": "462b07d36112309e",
         "type": "tabs",
-        "dimension": 24.982104509663564,
+        "dimension": 24.946236559139784,
         "children": [
           {
             "id": "67072aca9c73c24f",
@@ -216,51 +262,52 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e12f941a338cfce1",
+  "active": "911c60dfe9d71a97",
   "lastOpenFiles": [
+    "-----------",
+    "----------/Dluhy.md",
+    "Untitled.md",
+    "---------",
+    "----------",
+    "----------/TO DO.md",
+    "Records/Record 2025-03-17 at 18h35m22s.wav",
+    "Records/Pathfinder 14.3_part1.mp3",
+    "Records/Pathfinder 14.3_part1.wav",
     "Records/Pathfinder 14.3_part2.wav",
     "Records/Record 2025-03-14 at 23h08m29s.wav",
     "Records/Record 2025-03-14 at 23h11m57s.wav",
-    "Records/Record 2025-03-17 at 18h35m22s.wav",
     "Records/Record 2025-03-13 at 22h01m46s.wav",
-    "Records/Pathfinder 14.3_part1.mp3",
-    "Records/Pathfinder 14.3_part1.wav",
-    "DnD/Kampaň 2/Timeline.md",
+    "----------/DnD/Kampaň 2/Timeline.md",
     "Records",
-    "DnD/Kampaň 2/NPCs.md",
-    "DnD/Městečko Střediskové/Zápisy.md",
-    "DnD/Městečko Střediskové/WHRPG4e taháky.md",
-    "DnD/Městečko Střediskové/Mapy.md",
-    "DnD/Městečko Střediskové/Lazar Herber.md",
-    "DnD/Městečko Střediskové/2025-03-13.md",
-    "DnD/Kampaň 2/NPCs",
-    "DnD/Kampaň 2/NPCs/Natt.md",
-    "DnD/Kampaň 2/NPCs/Anasi.md",
-    "DnD/Kampaň 2/NPCs/Lustravious.md",
-    "DnD/Kampaň 2/NPCs/Kaimon Aboot.md",
-    "DnD/Kampaň 2/Korupce.md",
-    "DnD/bordel/z3 Kaimon Aboot.webp",
+    "----------/DnD/Kampaň 2/NPCs.md",
+    "----------/DnD/Městečko Střediskové/Zápisy.md",
+    "----------/DnD/Městečko Střediskové/WHRPG4e taháky.md",
+    "----------/DnD/Městečko Střediskové/Mapy.md",
+    "----------/DnD/Městečko Střediskové/Lazar Herber.md",
+    "----------/DnD/Městečko Střediskové/2025-03-13.md",
+    "----------/DnD/Kampaň 2/NPCs/Natt.md",
+    "----------/DnD/Kampaň 2/NPCs/Anasi.md",
+    "----------/DnD/Kampaň 2/NPCs/Lustravious.md",
+    "----------/DnD/Kampaň 2/NPCs/Kaimon Aboot.md",
+    "----------/DnD/Kampaň 2/Korupce.md",
+    "----------/DnD/bordel/z3 Kaimon Aboot.webp",
     "2025-03-16.md",
-    "DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
-    "IRL stuff/2025-03-06.md",
-    "DnD/Pathfinder/Bobrinův deník.md",
-    "DnD/Pathfinder/Mapa.md",
-    "DnD/Pathfinder/OOC Mimo deník.md",
-    "DnD/Pathfinder/Zápisy.md",
-    "DnD/Pathfinder/Da Memes.md",
+    "----------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
+    "----------/IRL stuff/2025-03-06.md",
+    "----------/DnD/Pathfinder/Bobrinův deník.md",
+    "----------/DnD/Pathfinder/Mapa.md",
+    "----------/DnD/Pathfinder/OOC Mimo deník.md",
+    "----------/DnD/Pathfinder/Zápisy.md",
+    "----------/DnD/Pathfinder/Da Memes.md",
     "Erbiros Gramnas.md",
-    "DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
-    "DnD/Oneshots/Tiny Dungeons/Trait list.md",
-    "DnD/Oneshots/Tiny Dungeons/Race list.md",
-    "DnD/Oneshots/Tiny Dungeons/pdfcoffee.com_tiny-dungeon-2e-2-pdf-free.pdf",
-    "DnD/Oneshots/Bordel/Inkviziční příkaz.md",
-    "DnD/bordel/Pasted image 20250314194644.png",
-    "DnD/bordel/Pasted image 20250314194444.png",
-    "DnD/bordel/Pasted image 20250314184156.png",
-    "DnD/bordel/Pasted image 20250314183926.png",
-    "DnD/bordel/Pasted image 20250313194216.png",
-    "DnD/bordel/Pasted image 20250304133202.png",
-    "DnD/bordel/My_World_2.jpg",
-    "DnD/bordel/mapa světa.jpeg"
+    "----------/DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
+    "----------/DnD/bordel/Pasted image 20250314194644.png",
+    "----------/DnD/bordel/Pasted image 20250314194444.png",
+    "----------/DnD/bordel/Pasted image 20250314184156.png",
+    "----------/DnD/bordel/Pasted image 20250314183926.png",
+    "----------/DnD/bordel/Pasted image 20250313194216.png",
+    "----------/DnD/bordel/Pasted image 20250304133202.png",
+    "----------/DnD/bordel/My_World_2.jpg",
+    "----------/DnD/bordel/mapa světa.jpeg"
   ]
 }

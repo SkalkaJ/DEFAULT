@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDollarSign",
+      "LiCheckSquare",
       "LiDices",
       "LiAnvil",
-      "LiAmbulance",
-      "LiBook",
-      "LiMic"
+      "LiAmbulance"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,13 +34,15 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "DnD": "LiDices",
-  "DnD/bordel": "LiTrash",
-  "DnD/Kampaň 2": "LiCat",
-  "DnD/Městečko Střediskové": "LiHouse",
-  "DnD/Oneshots": "LiDice1",
-  "DnD/Pathfinder": "LiAnvil",
   "Records": "LiMic",
-  "škola": "LiBook",
-  "IRL stuff": "LiTrees"
+  "----------/DnD": "LiDices",
+  "----------/DnD/Kampaň 2": "LiCat",
+  "----------/DnD/bordel": "LiTrash",
+  "----------/DnD/Městečko Střediskové": "LiHouse",
+  "----------/DnD/Oneshots": "LiDice1",
+  "----------/DnD/Pathfinder": "LiAnvil",
+  "----------/IRL stuff": "LiTrees",
+  "----------/škola": "LiBook",
+  "----------/Dluhy.md": "LiDollarSign",
+  "----------/TO DO.md": "LiCheckSquare"
 }
