@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiDollarSign",
-      "LiCheckSquare",
-      "LiDices",
-      "LiAnvil",
-      "LiAmbulance"
+      "LiMic",
+      "LiNotebookPen",
+      "LiTrash",
+      "LiBackpack",
+      "LiDollarSign"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,6 +42,10 @@
   "----------------------------------/DnD/Pathfinder": "LiAnvil",
   "----------------------------------/IRL stuff": "LiTrees",
   "----------------------------------/škola": "LiBook",
-  "----------------------------------/Dluhy.md": "LiDollarSign",
-  "----------------------------------/TO DO.md": "LiCheckSquare"
+  "----------------------------------/TO DO.md": "LiCheckSquare",
+  "----------------------------------/Dluhy a Účty.md": "LiDollarSign",
+  "-----------------------------------/Bordel": "LiTrash",
+  "----------------------------------/IRL stuff/Balení": "LiBackpack",
+  "----------------------------------/IRL stuff/Journal": "LiNotebookPen",
+  "----------------------------------/Records": "LiMic"
 }
