@@ -11,13 +11,58 @@
             "id": "74e826071b400bd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Asi studium.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Asi studium"
+            }
+          },
+          {
+            "id": "8e52aa0e24b0c8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/DnD/Oneshots/Max Onshot poznámky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Max Onshot poznámky"
+            }
+          },
+          {
+            "id": "53f3f389f880f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "----------------------------------/DnD/Oneshots/Max_oneshot.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Max_oneshot.excalidraw"
+            }
+          },
+          {
+            "id": "f238d0f56093365f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/DnD/Oneshots/Max Onshot poznámky.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Max Onshot poznámky"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -29,7 +74,7 @@
       {
         "id": "19c87e4a845f96ec",
         "type": "tabs",
-        "dimension": 60.50179211469535,
+        "dimension": 60.46287367405979,
         "children": [
           {
             "id": "911c60dfe9d71a97",
@@ -76,7 +121,7 @@
       {
         "id": "1644c110cd703c0d",
         "type": "tabs",
-        "dimension": 14.551971326164876,
+        "dimension": 14.561234329797493,
         "children": [
           {
             "id": "4cce1df62a80f0ed",
@@ -93,7 +138,7 @@
       {
         "id": "462b07d36112309e",
         "type": "tabs",
-        "dimension": 24.946236559139784,
+        "dimension": 24.975891996142717,
         "children": [
           {
             "id": "67072aca9c73c24f",
@@ -132,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 212.5
   },
   "right": {
     "id": "f14789f766825e47",
@@ -238,11 +283,22 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "tldraw:Create new tldrawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "74e826071b400bd6",
+  "active": "53f3f389f880f7bd",
   "lastOpenFiles": [
+    "Pasted Image 20250322161606_715.png",
+    "----------------------------------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
+    "----------------------------------/DnD/Oneshots/Max Onshot poznámky.md",
+    "----------------------------------/DnD/Oneshots/Max_oneshot.excalidraw.md",
+    "Excalidraw",
+    "----------------------------------/DnD/Oneshots/Max oneshot.md",
+    "----------------------------------/DnD/bordel/e26b9b6603ad1fb21410b5ddae89129c.jpg",
+    "----------------------------------/škola/Asi studium.md",
+    "----------------------------------/škola/Jak na prezentace.md",
     "----------------------------------/Dluhy a Účty.md",
     "2025-03-17.md",
     "-----------------------------------/Bordel/unnamed.jpg",
@@ -260,7 +316,6 @@
     "----------------------------------/Records/Record 2025-03-17 at 18h35m22s.wav",
     "----------------------------------/Records/Pathfinder 14.3_part1.mp3",
     "----------------------------------/Records/Pathfinder 14.3_part1.wav",
-    "----------------------------------/Records",
     "----------------------------------/TO DO.md",
     "----------------------------------/DnD/Kampaň 2/Timeline.md",
     "----------------------------------/DnD/Kampaň 2/NPCs.md",
@@ -274,19 +329,12 @@
     "----------------------------------/DnD/Kampaň 2/NPCs/Lustravious.md",
     "----------------------------------/DnD/Kampaň 2/NPCs/Kaimon Aboot.md",
     "----------------------------------/DnD/bordel/z3 Kaimon Aboot.webp",
-    "2025-03-16.md",
-    "----------------------------------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
-    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
-    "----------------------------------/DnD/Pathfinder/Mapa.md",
-    "----------------------------------/DnD/Pathfinder/OOC Mimo deník.md",
-    "----------------------------------/DnD/Pathfinder/Zápisy.md",
     "----------------------------------/DnD/bordel/Pasted image 20250314194644.png",
     "----------------------------------/DnD/bordel/Pasted image 20250314194444.png",
     "----------------------------------/DnD/bordel/Pasted image 20250314184156.png",
     "----------------------------------/DnD/bordel/Pasted image 20250314183926.png",
     "----------------------------------/DnD/bordel/Pasted image 20250313194216.png",
     "----------------------------------/DnD/bordel/Pasted image 20250304133202.png",
-    "----------------------------------/DnD/bordel/My_World_2.jpg",
-    "----------------------------------/DnD/bordel/mapa světa.jpeg"
+    "----------------------------------/DnD/bordel/My_World_2.jpg"
   ]
 }
