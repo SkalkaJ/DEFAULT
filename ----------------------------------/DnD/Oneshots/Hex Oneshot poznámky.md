@@ -35,4 +35,6 @@ několik týdnů dozadu byl vykopán **světle zelený kámen** Murkmer stone
 koná se gala večer, okolo šesté bude představení vejce veřejnosti, potřebujeme hadry
 druhé poschodí napravo
 
-kurátorka Alda - nevíme, kde bydlí
+kurátorka Alda - nevíme, kde byd
+
+Kalam

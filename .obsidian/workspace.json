@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----------------------------------/DnD/Oneshots/Max Onshot poznámky.md",
+                "file": "----------------------------------/DnD/Oneshots/Hex Oneshot poznámky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Onshot poznámky"
+              "title": "Hex Oneshot poznámky"
             }
           },
           {
@@ -41,10 +41,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "----------------------------------/DnD/Oneshots/Max_oneshot.excalidraw.md"
+                "file": "----------------------------------/DnD/Oneshots/Hex_oneshot.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Max_oneshot.excalidraw"
+              "title": "Hex_oneshot.excalidraw"
             }
           },
           {
@@ -53,16 +53,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----------------------------------/DnD/Oneshots/Max Onshot poznámky.md",
+                "file": "----------------------------------/DnD/Oneshots/Hex Oneshot poznámky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Max Onshot poznámky"
+              "title": "Hex Oneshot poznámky"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,14 +288,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "53f3f389f880f7bd",
+  "active": "8e52aa0e24b0c8e6",
   "lastOpenFiles": [
+    "----------------------------------/DnD/Oneshots/Hex_oneshot.excalidraw.md",
+    "----------------------------------/DnD/Oneshots/Hex Oneshot poznámky.md",
+    "----------------------------------/DnD/Oneshots/Hex oneshot.md",
     "Pasted Image 20250322161606_715.png",
     "----------------------------------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
-    "----------------------------------/DnD/Oneshots/Max Onshot poznámky.md",
-    "----------------------------------/DnD/Oneshots/Max_oneshot.excalidraw.md",
     "Excalidraw",
-    "----------------------------------/DnD/Oneshots/Max oneshot.md",
     "----------------------------------/DnD/bordel/e26b9b6603ad1fb21410b5ddae89129c.jpg",
     "----------------------------------/škola/Asi studium.md",
     "----------------------------------/škola/Jak na prezentace.md",
@@ -334,7 +334,6 @@
     "----------------------------------/DnD/bordel/Pasted image 20250314184156.png",
     "----------------------------------/DnD/bordel/Pasted image 20250314183926.png",
     "----------------------------------/DnD/bordel/Pasted image 20250313194216.png",
-    "----------------------------------/DnD/bordel/Pasted image 20250304133202.png",
-    "----------------------------------/DnD/bordel/My_World_2.jpg"
+    "----------------------------------/DnD/bordel/Pasted image 20250304133202.png"
   ]
 }
