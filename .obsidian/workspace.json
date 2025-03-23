@@ -25,14 +25,26 @@
             "id": "8e52aa0e24b0c8e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "----------------------------------/DnD/Oneshots/Hex Oneshot poznámky.md",
-                "mode": "source",
-                "source": false
+                "file": "----------------------------------/DnD/Oneshots/archive/Hex_oneshot.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Hex Oneshot poznámky"
+              "icon": "excalidraw-icon",
+              "title": "Hex_oneshot.excalidraw"
+            }
+          },
+          {
+            "id": "18a8d4aa94eb62f3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "----------------------------------/DnD/Oneshots/Hex oneshot.md",
+                "bFile": "----------------------------------/DnD/Oneshots/Hex oneshot.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Hex oneshot"
             }
           },
           {
@@ -41,7 +53,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "----------------------------------/DnD/Oneshots/Hex_oneshot.excalidraw.md"
+                "file": "----------------------------------/DnD/Oneshots/archive/Hex_oneshot.excalidraw.md"
               },
               "icon": "excalidraw-icon",
               "title": "Hex_oneshot.excalidraw"
@@ -53,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----------------------------------/DnD/Oneshots/Hex Oneshot poznámky.md",
+                "file": "----------------------------------/DnD/Oneshots/archive/Hex Oneshot poznámky.md",
                 "mode": "source",
                 "source": false
               },
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +86,7 @@
       {
         "id": "19c87e4a845f96ec",
         "type": "tabs",
-        "dimension": 60.46287367405979,
+        "dimension": 60.462873674059786,
         "children": [
           {
             "id": "911c60dfe9d71a97",
@@ -121,7 +133,7 @@
       {
         "id": "1644c110cd703c0d",
         "type": "tabs",
-        "dimension": 14.561234329797493,
+        "dimension": 14.561234329797491,
         "children": [
           {
             "id": "4cce1df62a80f0ed",
@@ -138,7 +150,7 @@
       {
         "id": "462b07d36112309e",
         "type": "tabs",
-        "dimension": 24.975891996142717,
+        "dimension": 24.975891996142714,
         "children": [
           {
             "id": "67072aca9c73c24f",
@@ -283,16 +295,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
-      "tldraw:Create new tldrawing": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "8e52aa0e24b0c8e6",
+  "active": "18a8d4aa94eb62f3",
   "lastOpenFiles": [
-    "----------------------------------/DnD/Oneshots/Hex_oneshot.excalidraw.md",
-    "----------------------------------/DnD/Oneshots/Hex Oneshot poznámky.md",
-    "----------------------------------/DnD/Oneshots/Hex oneshot.md",
+    "----------------------------------/DnD/Oneshots/archive/Hex oneshot.md",
+    "Untitled.md",
+    "----------------------------------/DnD/Oneshots/archive",
+    "----------------------------------/DnD/Oneshots/archive/Hex_oneshot.excalidraw.md",
+    "----------------------------------/DnD/Oneshots/archive/Hex Oneshot poznámky.md",
     "Pasted Image 20250322161606_715.png",
     "----------------------------------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
     "Excalidraw",
@@ -315,7 +328,6 @@
     "----------------------------------/Records/Pathfinder 14.3_part2.wav",
     "----------------------------------/Records/Record 2025-03-17 at 18h35m22s.wav",
     "----------------------------------/Records/Pathfinder 14.3_part1.mp3",
-    "----------------------------------/Records/Pathfinder 14.3_part1.wav",
     "----------------------------------/TO DO.md",
     "----------------------------------/DnD/Kampaň 2/Timeline.md",
     "----------------------------------/DnD/Kampaň 2/NPCs.md",
@@ -327,7 +339,6 @@
     "----------------------------------/DnD/Kampaň 2/NPCs/Natt.md",
     "----------------------------------/DnD/Kampaň 2/NPCs/Anasi.md",
     "----------------------------------/DnD/Kampaň 2/NPCs/Lustravious.md",
-    "----------------------------------/DnD/Kampaň 2/NPCs/Kaimon Aboot.md",
     "----------------------------------/DnD/bordel/z3 Kaimon Aboot.webp",
     "----------------------------------/DnD/bordel/Pasted image 20250314194644.png",
     "----------------------------------/DnD/bordel/Pasted image 20250314194444.png",
