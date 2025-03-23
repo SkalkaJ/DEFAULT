@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Městečko Střediskové/Lazar Herber.md",
+                "file": "2025-03-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lazar Herber"
+              "title": "2025-03-23"
             }
           }
         ]
@@ -165,17 +165,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "ebcf694a2f82621b",
   "lastOpenFiles": [
+    "2025-03-23.md",
+    "-----------------------------------/Void/Untitled.md",
+    "-----------------------------------/Void",
     "2025-03-16.md"
   ]
 }

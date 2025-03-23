@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLogs",
+      "LiPen",
+      "LiAnchor",
       "LiMic",
-      "LiNotebookPen",
-      "LiTrash",
-      "LiBackpack",
-      "LiDollarSign"
+      "LiNotebookPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,8 @@
   "-----------------------------------/Bordel": "LiTrash",
   "----------------------------------/IRL stuff/Balení": "LiBackpack",
   "----------------------------------/IRL stuff/Journal": "LiNotebookPen",
-  "----------------------------------/Records": "LiMic"
+  "----------------------------------/Records": "LiMic",
+  "----------------------------------/void": "LiAnchor",
+  "-----------------------------------/log": "LiLogs",
+  "-----------------------------------/Excalidraw": "LiPen"
 }
