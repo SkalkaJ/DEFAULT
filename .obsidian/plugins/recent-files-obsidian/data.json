@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Středověk",
+      "path": "----------------------------------/škola/Středověk.md"
+    },
+    {
+      "basename": "Renesance a humanismus",
+      "path": "----------------------------------/škola/Renesance a humanismus.md"
+    },
+    {
+      "basename": "Baroko",
+      "path": "----------------------------------/škola/Baroko.md"
+    },
+    {
+      "basename": "Klasicismus a osvícenstní",
+      "path": "----------------------------------/škola/Klasicismus a osvícenstní.md"
+    },
+    {
+      "basename": "Jak na prezentace",
+      "path": "----------------------------------/škola/Jak na prezentace.md"
+    },
+    {
+      "basename": "Četba",
+      "path": "----------------------------------/škola/Četba/Četba.md"
+    },
+    {
+      "basename": "Hex_oneshot.excalidraw",
+      "path": "----------------------------------/DnD/Oneshots/archive/Hex_oneshot.excalidraw.md"
+    },
+    {
+      "basename": "Hex Oneshot poznámky",
+      "path": "----------------------------------/DnD/Oneshots/archive/Hex Oneshot poznámky.md"
+    },
+    {
+      "basename": "Keltek",
+      "path": "----------------------------------/DnD/Zig/Keltek.md"
+    },
+    {
+      "basename": "zcvgnpgicfgybsnqojbc",
+      "path": "----------------------------------/DnD/bordel/zcvgnpgicfgybsnqojbc.png"
+    },
+    {
+      "basename": "TO DO",
+      "path": "----------------------------------/TO DO.md"
+    },
+    {
       "basename": "conflict-files-obsidian-git",
       "path": "-----------------------------------/log/conflict-files-obsidian-git.md"
     },
@@ -17,24 +61,12 @@
       "path": "----------------------------------/DnD/Oneshots/archive/Hex oneshot.md"
     },
     {
-      "basename": "Hex_oneshot.excalidraw",
-      "path": "----------------------------------/DnD/Oneshots/archive/Hex_oneshot.excalidraw.md"
-    },
-    {
-      "basename": "Hex Oneshot poznámky",
-      "path": "----------------------------------/DnD/Oneshots/archive/Hex Oneshot poznámky.md"
-    },
-    {
       "basename": "Tiny Dungeons Playtest 5.3",
       "path": "----------------------------------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md"
     },
     {
       "basename": "Asi studium",
       "path": "----------------------------------/škola/Asi studium.md"
-    },
-    {
-      "basename": "Jak na prezentace",
-      "path": "----------------------------------/škola/Jak na prezentace.md"
     },
     {
       "basename": "Dluhy a Účty",
@@ -59,10 +91,6 @@
     {
       "basename": "Korupce",
       "path": "----------------------------------/DnD/Kampaň 2/Korupce.md"
-    },
-    {
-      "basename": "TO DO",
-      "path": "----------------------------------/TO DO.md"
     }
   ],
   "omittedPaths": [],
