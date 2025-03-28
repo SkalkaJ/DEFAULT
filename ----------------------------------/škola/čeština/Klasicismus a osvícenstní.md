@@ -10,4 +10,4 @@ Klasicismus:
 Moliere (Lakomec), J. Swift – fantastický cestopis Gulliverovy cesty.
 Osvícenství:
 
-Daniel Defoe (Robinson Crusoe), Voltaire – "století Voltairovo", dílo: Candide neboli Optimismus, Jeptiška, Filozofický slovník.
+	Daniel Defoe (Robinson Crusoe), Voltaire – "století Voltairovo", dílo: Candide neboli Optimismus, Jeptiška, Filozofický slovník.

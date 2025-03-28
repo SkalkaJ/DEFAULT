@@ -4,7 +4,18 @@
 - [ ] [[K.H.Borovský]] - [[Tyrolské elegie]]
 - [ ] [[K.H.Borovský]] - [[Křest Svatého Vladimíra]]
 - [ ] [[Guy de Maupassant]] - [[Kulička]]
-- [ ] [[Edgar Allan Poe]] - [[Jáma a Kyvadlo]]
-- [ ] [[George Orwel]] - [[1984]]
-- [ ] [[George Orwel]] - [[Farma Zvířat]]
-- [ ] 
+- [ ] [[Edgar Allan Poe]] - [[Jáma a Kyvadlo]] WIP
+- [ ] [[O. Wilde]] - [[Obraz Doriana Graye]]
+- [ ] [[Exupéry]] - [[Malý Princ]] WIP
+- [ ] [[E. Hemingway]] - [[Stařec a moře]] WIP
+- [ ] [[J. Steinback]] - [[O myších a lidech]]
+- [ ] [[G. Orwell]] - [[Farma Zvířat]] WIP
+- [x] [[A. Weir]] - [[Marťan]] Done
+- [ ] [[V. Dyk]] - [[Krysař]] WIP
+- [ ] [[F. Hrubín]] - [[Romance pro křídlovku]] PŘEČÍST
+- [ ] [[K. Čapek]] - [[RUR]] WIP
+- [ ] [[K. Čapek]] - [[Bílá Nemoc]] WIP
+- [ ] [[Z. Jirortka]] - [[Saturnin]]
+- [x] [[Z. Svěrák, L. Smoljak]] - [[České nebe]] Done
+- [ ] [[Z. Svěrák, L. Smoljak]] - [[Dobytí severního pólu]]
+
