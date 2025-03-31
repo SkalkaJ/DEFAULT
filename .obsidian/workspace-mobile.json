@@ -11,10 +11,14 @@
             "id": "ebcf694a2f82621b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/škola/čeština/Klasicismus a osvícenstní.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Klasicismus a osvícenstní"
             }
           }
         ]
