@@ -11,14 +11,10 @@
             "id": "ebcf694a2f82621b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-03-23.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-03-23"
+              "title": "New tab"
             }
           }
         ]
