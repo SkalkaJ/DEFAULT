@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "233388cb0b3d6d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "b812d3a59d8fac54",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "A. Weir"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,10 +269,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "930f511d2a7e475d",
+  "active": "e12f941a338cfce1",
   "lastOpenFiles": [
-    "SOČ prezentace.md",
     "SOČ Video.md",
+    "conflict-files-obsidian-git.md",
+    "SOČ prezentace.md",
     "test 9.4 ČS.md",
     "----------------------------------/škola/čeština/Klasicismus a osvícenstní.md",
     "----------------------------------/škola/Četba/Marťan.md",
@@ -291,7 +307,6 @@
     "----------------------------------/škola/Četba/Krysař.md",
     "----------------------------------/škola/Četba/Z. Svěrák, L. Smoljak.md",
     "Dobytí severního pólu.md",
-    "----------------------------------/škola/Četba/České nebe.md",
     "----------------------------------/DnD/bordel/Pasted image 20250324193918.png",
     "----------------------------------/DnD/bordel/Pasted image 20250324183536.png",
     "----------------------------------/DnD/bordel/Pasted Image 20250324184634_778.png",
