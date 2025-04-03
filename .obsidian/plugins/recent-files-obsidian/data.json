@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "SOČ Video",
+      "path": "SOČ Video.md"
+    },
+    {
+      "basename": "SOČ prezentace",
+      "path": "SOČ prezentace.md"
+    },
+    {
+      "basename": "test 9.4 ČS",
+      "path": "test 9.4 ČS.md"
+    },
+    {
       "basename": "Klasicismus a osvícenstní",
       "path": "----------------------------------/škola/čeština/Klasicismus a osvícenstní.md"
+    },
+    {
+      "basename": "Marťan",
+      "path": "----------------------------------/škola/Četba/Marťan.md"
+    },
+    {
+      "basename": "A. Weir",
+      "path": "----------------------------------/škola/Četba/A. Weir.md"
     },
     {
       "basename": "Baroko",
@@ -65,10 +85,6 @@
       "path": "Moderní trendy v IT.md"
     },
     {
-      "basename": "test 9.4 ČS",
-      "path": "test 9.4 ČS.md"
-    },
-    {
       "basename": "Četba",
       "path": "----------------------------------/škola/Četba/Četba.md"
     },
@@ -123,14 +139,6 @@
     {
       "basename": "Farma Zvířat",
       "path": "----------------------------------/škola/Četba/Farma Zvířat.md"
-    },
-    {
-      "basename": "Marťan",
-      "path": "----------------------------------/škola/Četba/Marťan.md"
-    },
-    {
-      "basename": "A. Weir",
-      "path": "----------------------------------/škola/Četba/A. Weir.md"
     },
     {
       "basename": "Velká písmena",
@@ -191,10 +199,6 @@
     {
       "basename": "conflict-files-obsidian-git",
       "path": "-----------------------------------/log/conflict-files-obsidian-git.md"
-    },
-    {
-      "basename": "Pasted Image 20250322161606_715",
-      "path": "----------------------------------/DnD/bordel/Pasted Image 20250322161606_715.png"
     }
   ],
   "omittedPaths": [],

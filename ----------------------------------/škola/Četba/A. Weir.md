@@ -14,11 +14,11 @@
 
   - 2011 publikoval Marťana na svých stránkách
 
-  - po nátlaku fanoušku vytvořil e-knihu, která se brzo stala bestsellerem
+  - po nátlaku fanoušků vytvořil e-knihu, která se brzo stala bestsellerem
 
   - poté prodal práva na knihu a v r. 2014 byla vydána vydavatelskou společností Crown
 
-  - v r. 2016 získal cenu "Astounding Award for Best New Writer
+  - v r. 2016 získal cenu "Astounding Award for Best New Writer"
 
   
 
