@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "930f511d2a7e475d",
+            "id": "619346a64558989d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----------------------------------/škola/čeština/Klasicismus a osvícenstní.md",
+                "file": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Klasicismus a osvícenstní"
-            }
-          },
-          {
-            "id": "5250e4f953893510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "----------------------------------/škola/čeština/Preromantismus a Romantismus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Preromantismus a Romantismus"
-            }
-          },
-          {
-            "id": "d70ebf8c9654300a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "----------------------------------/škola/čeština/Národní Obrození.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Národní Obrození"
-            }
-          },
-          {
-            "id": "b812d3a59d8fac54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "----------------------------------/škola/Četba/A. Weir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A. Weir"
+              "title": "Bobrinův deník"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,44 +240,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d70ebf8c9654300a",
+  "active": "619346a64558989d",
   "lastOpenFiles": [
-    "----------------------------------/škola/čeština/Preromantismus a Romantismus.md",
-    "----------------------------------/škola/čeština/Národní Obrození.md",
+    "Records/11.4 PF2e/Barganar-Erbiros.mp3",
+    "Records/11.4 PF2e/Record 2025-04-11 at 19h02m52s.mp3",
+    "----------------------------------/DnD/Pathfinder/Mapa.md",
+    "----------------------------------/DnD/Pathfinder/Da Memes.md",
+    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
+    "----------------------------------/DnD/Pathfinder/Ulfgar.md",
+    "Records/11.4 PF2e/Record 2025-04-11 at 17h25m04s.mp3",
+    "Records/11.4 PF2e",
+    "Records/New folder",
+    "----------------------------------/DnD/Pathfinder/OOC Mimo deník.md",
+    "----------------------------------/DnD/Pathfinder/Zápisy.md",
+    "----------------------------------/škola/Četba/A. Weir.md",
     "----------------------------------/škola/čeština/Klasicismus a osvícenstní.md",
+    "Klasicismus.md",
+    "----------------------------------/škola/čeština/test 9.4 ČS.md",
+    "----------------------------------/škola/čeština/Národní Obrození.md",
+    "----------------------------------/škola/čeština/Preromantismus a Romantismus.md",
     "----------------------------------/DnD/Zig/24.3.2025.md",
     "SOČ Video.md",
     "Records/Record 2025-04-03 at 13h17m50s.mp3",
     "----------------------------------/TO DO.md",
     "SOČ prezentace.md",
     "----------------------------------/škola/Moderní trendy v IT.md",
-    "test 9.4 ČS.md",
     "conflict-files-obsidian-git.md",
     "----------------------------------/škola/Četba/Marťan.md",
-    "----------------------------------/škola/Četba/A. Weir.md",
-    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
     "Records/24.3/24.3.2025 - Boj o Forge.wav",
-    "Records/New folder",
     "----------------------------------/DnD/Zig/Random Zig.md",
     "Records/Record 2025-03-28 at 19h00m41s.mp3",
     "Records/Record 2025-03-28 at 18h34m39s.mp3",
     "Records/Erbiros 1.mp3",
-    "----------------------------------/DnD/Pathfinder/Da Memes.md",
-    "----------------------------------/DnD/Pathfinder/OOC Mimo deník.md",
     "Records/před Erbirosem.mp3",
-    "Records/Record 2025-03-28 at 18h14m41s.mp3",
-    "Records/Record 2025-03-28 at 18h01m42s.mp3",
-    "Records/Barganar-intro.mp3",
-    "----------------------------------/DnD/Pathfinder/Zápisy.md",
-    "----------------------------------/DnD/Pathfinder/Mapa.md",
     "----------------------------------/škola/Četba/K. Čapek.md",
     "Excalidraw/Drawing 2025-03-27 20.20.19.excalidraw.md",
     "Excalidraw/Drawing 2025-03-24 19.52.16.excalidraw.md",
     "Excalidraw/Drawing 2025-03-24 18.44.39.excalidraw.md",
     "----------------------------------/DnD/Zig/2025-03-27.md",
-    "----------------------------------/škola/čeština/Baroko.md",
-    "----------------------------------/škola/Četba/Četba.md",
-    "----------------------------------/škola/Četba/V. Dyk.md",
     "----------------------------------/DnD/bordel/Pasted image 20250324193918.png",
     "----------------------------------/DnD/bordel/Pasted image 20250324183536.png",
     "----------------------------------/DnD/bordel/Pasted Image 20250324184634_778.png",
