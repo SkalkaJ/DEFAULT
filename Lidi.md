@@ -8,12 +8,12 @@
 - Matouš]]
 - Martin R.]]
 - Alex M.]]
-- Pája]]
-- kraštof]]
-- Hubík]]
+- [[Pája]]
+- [[Kraštof]]
+- [[Hubík]]
 - [[254mobil moto g54 5G power 254G
-- ￼￼Rozka￼￼
-- ￼￼Petr K.￼￼
-- ￼￼Filip￼￼
-- ￼￼Julča￼￼
+- [[Rozka]]
+- [[Petr K.]]
+- [[Filip]]
+- [[Julča]]
 Zbytek třk třídy, Dan Sýkora, Kuba W., 
