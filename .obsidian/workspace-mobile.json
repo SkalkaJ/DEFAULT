@@ -155,6 +155,16 @@
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
+      },
+      {
+        "id": "5b91b202ff5d1407",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
       }
     ],
     "currentTab": 0
@@ -166,7 +176,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "ebcf694a2f82621b",
