@@ -2,12 +2,12 @@
 
 ### Praha, Budějce
 - [[Monča]]- [discord](), [číslo]()
-- Martin N.
-- Barča
-- Zůza
-- Matouš
-- Martin R.
-- Alex M.
+- Martin N.]]
+- Barča]]
+- Zůza]]
+- Matouš]]
+- Martin R.]
+- Alex M.]]
 - Pája
 - kraštof
 - Hubík
