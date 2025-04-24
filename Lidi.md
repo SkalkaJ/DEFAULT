@@ -6,14 +6,14 @@
 - Barča]]
 - Zůza]]
 - Matouš]]
-- Martin R.]
+- Martin R.]]
 - Alex M.]]
-- Pája
-- kraštof
-- Hubík
-- Matyáš
-- Rozka
-- Petr K.
-- Filip
-- Julča
-Zbytek třídy, Dan Sýkora, Kuba W., 
+- Pája]]
+- kraštof]]
+- Hubík]]
+- [[254mobil moto g54 5G power 254G
+- ￼￼Rozka￼￼
+- ￼￼Petr K.￼￼
+- ￼￼Filip￼￼
+- ￼￼Julča￼￼
+Zbytek třk třídy, Dan Sýkora, Kuba W., 
