@@ -52,3 +52,6 @@ Potřebuje sehnat:
 - Magickou perlu od příšery z Erejských ostrovů, to jsou lovci mořských příšer. Na západě, přístavní město EEderstalt. Měla by být velká jak pěst. = zdroj elementu vody
 - Něco s rostlinou mocí. Na východě je obří Hvozd Písní. Měli bysme se stavit v hlavním městě Danitu, Merile. Ten je plný magické zvěře, humanoidů a druidů. = zdroj elementu přírody
 Napadli nás nějací kokoti: Mám jít za felčarem v 15. ulici, léčení na jméno Algas
+
+### 9.11.1859
+Vyrážíme na východ

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiClipboardList",
       "LiBookA",
       "LiTrash",
       "LiDrama",
-      "LiLogs",
-      "LiPen"
+      "LiLogs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "-----------------------------------/log": "LiLogs",
   "----------------------------------/DnD/Zig": "LiDrama",
   "----------------------------------/škola/Trash": "LiTrash",
-  "----------------------------------/škola/Četba/Četba.md": "LiBookA"
+  "----------------------------------/škola/Četba/Četba.md": "LiBookA",
+  "----------------------------------/Seznamy": "LiClipboardList"
 }

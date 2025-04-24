@@ -1,0 +1,128 @@
+## MAIN
+- Island
+- Aladin/Klara/Radar
+- ČHMÚ
+- AccuBattery
+- Alive App - ISIC
+- Mihon
+- Authenticator
+- Bakaláři
+- Beeper
+- BeReal
+- Google Camera
+- Camera 2 Probe
+- Perplexity, ChatGPT
+- DuckDuckGo, Firefox, Chrome
+- Mapy.cz
+- Photos - pixelify
+- Google - dokumenty, slides, files, 
+- Facebook
+- MiXplorer
+- Snapchat
+- Termux
+- Spotify
+- Messanger, Facebook, Instagram, Whatsapp
+- YT (drifty)
+- **Waze**
+- Revolut
+- Reddit
+- Lightroom
+- GuitarTuna
+- Kodi
+- Viber
+- Raiffka, RaiPay
+- trading 212
+- PocketBard
+- Gmail
+- Drive
+- T-mobile
+- Sound+ Jabra
+- Webtoon
+- Grayjay?
+- Nothing X
+- Wallpaper Changer
+- Steam
+- telegram
+- Revanced
+- PID lítačka
+- kahoot
+- tumblr
+- Pubtran
+- Another Widget
+- Nesnězeno
+- Soundbound
+- Pinterest
+- MEGA
+- MAL
+- Photo Scan
+- Translate, DeepL atd.
+- Rekola
+- Můj Vlak
+- Sejf
+- Quizlet
+- GPS emulator
+- Github
+- eDoklady
+- pi music player
+- SafetyNet check
+- Widgetify
+- eobčanka
+- Periodic Table
+- Git Sinc, obsidian
+- Voice
+- DPMCB
+- Xmanager
+- photomath
+- PeakLens
+- Strava
+- Wallpaper changer
+- Svátky
+- AniHyou- anilist
+- dataeye
+- mobilní klíč egovernementu
+- desmos
+- island
+- remote desktop
+- 
+
+## Stores
+- Alza
+- Aliexpress
+- Allegro
+- Aukro
+- Billa klub
+- Steam
+- Lidl plus
+- vinted
+- Clubcard tesco
+- můj albert
+
+## Tools
+- AntiSplitM
+- App lock
+- FV File explorer
+- Photo Layers
+- SAndroid Auto
+- Wolfram Alpha crack
+- PixelLab
+
+## Media
+- Mihon
+- Aniyomi
+- VLC
+- Seal
+- Tube
+- Niji journey
+- SPlayer
+
+## Other
+- Atlas denních motýlu čr
+- atlas rostlin
+- další atlasy
+- BGG
+- Board game arena
+- Polytopia
+- Roll20
+- Slice and Dice
+- 3D geeks
+- Magic LifeTotal

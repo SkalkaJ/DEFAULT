@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a1eecf06908d3c9",
+        "id": "41eae019b84b9d01",
         "type": "tabs",
         "children": [
           {
-            "id": "619346a64558989d",
+            "id": "4db77713df4f2ee5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bobrinův deník"
+              "title": "New tab"
             }
           }
         ]
@@ -240,44 +236,45 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "619346a64558989d",
+  "active": "4db77713df4f2ee5",
   "lastOpenFiles": [
+    "----------------------------------/Seznamy/254mobil moto g54 5G power 254GB midnight blue.md",
+    "----------------------------------/Seznamy/Aplikace mobil 19.4.md",
+    "mobil.md",
+    "----------------------------------/Seznamy",
+    "----------------------------------/škola/čeština/Klasicismus.md",
+    "----------------------------------/škola/SOČ Video.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "-----------------------------------/Bordel/Pasted image 20250420114115.png",
+    "Pasted image 20250415075552.png",
+    "----------------------------------/DnD/Městečko Střediskové/Lazar Herber.md",
+    "----------------------------------/DnD/Městečko Střediskové/Zápisy.md",
+    "----------------------------------/DnD/Městečko Střediskové/WHRPG4e taháky.md",
+    "----------------------------------/DnD/Městečko Střediskové/Mapy.md",
+    "----------------------------------/DnD/Městečko Střediskové/2025-03-13.md",
+    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
+    "----------------------------------/DnD/Oneshots/Tiny Dungeons Playtest 5.3.md",
+    "----------------------------------/DnD/Oneshots/Tiny Dungeons/Trait list.md",
+    "----------------------------------/DnD/Oneshots/Tiny Dungeons/Race list.md",
+    "----------------------------------/DnD/Oneshots/Tiny Dungeons/Tvorba postavy.md",
+    "----------------------------------/DnD/Pathfinder/Da Memes.md",
+    "----------------------------------/DnD/Pathfinder/Mapa.md",
+    "----------------------------------/DnD/Pathfinder/OOC Mimo deník.md",
+    "----------------------------------/DnD/Pathfinder/Ulfgar.md",
+    "----------------------------------/DnD/Pathfinder/Zápisy.md",
     "Records/11.4 PF2e/Barganar-Erbiros.mp3",
     "Records/11.4 PF2e/Record 2025-04-11 at 19h02m52s.mp3",
-    "----------------------------------/DnD/Pathfinder/Mapa.md",
-    "----------------------------------/DnD/Pathfinder/Da Memes.md",
-    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
-    "----------------------------------/DnD/Pathfinder/Ulfgar.md",
     "Records/11.4 PF2e/Record 2025-04-11 at 17h25m04s.mp3",
     "Records/11.4 PF2e",
     "Records/New folder",
-    "----------------------------------/DnD/Pathfinder/OOC Mimo deník.md",
-    "----------------------------------/DnD/Pathfinder/Zápisy.md",
     "----------------------------------/škola/Četba/A. Weir.md",
     "----------------------------------/škola/čeština/Klasicismus a osvícenstní.md",
-    "Klasicismus.md",
     "----------------------------------/škola/čeština/test 9.4 ČS.md",
-    "----------------------------------/škola/čeština/Národní Obrození.md",
-    "----------------------------------/škola/čeština/Preromantismus a Romantismus.md",
-    "----------------------------------/DnD/Zig/24.3.2025.md",
-    "SOČ Video.md",
     "Records/Record 2025-04-03 at 13h17m50s.mp3",
-    "----------------------------------/TO DO.md",
-    "SOČ prezentace.md",
-    "----------------------------------/škola/Moderní trendy v IT.md",
-    "conflict-files-obsidian-git.md",
-    "----------------------------------/škola/Četba/Marťan.md",
     "Records/24.3/24.3.2025 - Boj o Forge.wav",
-    "----------------------------------/DnD/Zig/Random Zig.md",
     "Records/Record 2025-03-28 at 19h00m41s.mp3",
     "Records/Record 2025-03-28 at 18h34m39s.mp3",
-    "Records/Erbiros 1.mp3",
-    "Records/před Erbirosem.mp3",
-    "----------------------------------/škola/Četba/K. Čapek.md",
-    "Excalidraw/Drawing 2025-03-27 20.20.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-24 19.52.16.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-24 18.44.39.excalidraw.md",
-    "----------------------------------/DnD/Zig/2025-03-27.md",
     "----------------------------------/DnD/bordel/Pasted image 20250324193918.png",
     "----------------------------------/DnD/bordel/Pasted image 20250324183536.png",
     "----------------------------------/DnD/bordel/Pasted Image 20250324184634_778.png",
@@ -285,8 +282,6 @@
     "Pasted image 20250324184227.png",
     "----------------------------------/škola/Trash/AGC_20250324_103519591.jpg",
     "----------------------------------/škola/Trash/AGC_20250324_102246864.jpg",
-    "----------------------------------/škola/Trash/AGC_20250324_102253544.jpg",
-    "----------------------------------/škola/Trash/AGC_20250324_102259384.jpg",
-    "----------------------------------/DnD/bordel/zcvgnpgicfgybsnqojbc.png"
+    "----------------------------------/škola/Trash/AGC_20250324_102253544.jpg"
   ]
 }
