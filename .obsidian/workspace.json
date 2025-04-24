@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41eae019b84b9d01",
+        "id": "4260764b82070b31",
         "type": "tabs",
         "children": [
           {
-            "id": "4db77713df4f2ee5",
+            "id": "78315e761786ab93",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 381.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +237,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4db77713df4f2ee5",
+  "active": "78315e761786ab93",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "----------------------------------/Seznamy/254mobil moto g54 5G power 254GB midnight blue.md",
     "----------------------------------/Seznamy/Aplikace mobil 19.4.md",
     "mobil.md",
