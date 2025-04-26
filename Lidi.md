@@ -1,4 +1,4 @@
-## Sociable
+## 
 Praha, Budějce:
 - [[Monča|@Monča]]
 - [[MartinN.|@MartinN.]]
