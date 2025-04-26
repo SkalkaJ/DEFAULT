@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lidi.md",
-                "mode": "source",
+                "file": "----------------------------------/People/Barča.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lidi"
+              "title": "Barča"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lidi.md",
+            "file": "----------------------------------/People/Barča.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -189,6 +189,7 @@
   "active": "ebcf694a2f82621b",
   "lastOpenFiles": [
     "Lidi.md",
+    "----------------------------------/People/Barča.md",
     "SOČ prezentace.md",
     "SOČ Video.md",
     "----------------------------------/škola/čeština/Baroko.md",
