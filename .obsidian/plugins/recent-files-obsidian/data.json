@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
       "basename": "Štěpán heslo mc",
       "path": "Štěpán heslo mc.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "OOC Mimo deník",
       "path": "----------------------------------/DnD/Pathfinder/OOC Mimo deník.md"
-    },
-    {
-      "basename": "Ulfgar",
-      "path": "----------------------------------/DnD/Pathfinder/Ulfgar.md"
     }
   ],
   "omittedPaths": [],
