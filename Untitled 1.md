@@ -1,6 +1,3 @@
-Napiš bodovou osnovu práce. Přesně podle slidů
-
-## Bodová osnova práce podle slidů prezentace
 
 ### 1. Titulní strana
 - Algologický rozbor rybníků v lokalitě Lipí
