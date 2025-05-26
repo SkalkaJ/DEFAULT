@@ -1,4 +1,3 @@
-
 ### 1. Titulní strana
 - Algologický rozbor rybníků v lokalitě Lipí
 
