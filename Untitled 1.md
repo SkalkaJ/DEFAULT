@@ -73,11 +73,3 @@ Napiš bodovou osnovu práce. Přesně podle slidů
 
 ### 14. Zdroje
 - Výčet použitých zdrojů, obrázků, map a pomůcek
-
----
-
-Tato osnova odpovídá přesně pořadí a obsahu slidů v prezentaci[1].
-
-Citations:
-[1] 2obhajoba.pptx https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/56385248/3809c2a4-a4ba-48bc-b4dd-f75750819b3a/2obhajoba.pptx
-[2] skalka_jakub_8E.pdf https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/56385248/e2932fdc-e410-45cc-bafe-db23775c9fe1/skalka_jakub_8E.pdf
