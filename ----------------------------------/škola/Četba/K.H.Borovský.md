@@ -1,0 +1,32 @@
+- České národní obrození, novinář, žurnalista
+- Borová u Přibyslavi
+- gympl, studium filozofie v Praze
+- kněžský seminář -> neschoda s církví
+- pobyt v Rusku, ztratil iluze
+- kritika Bachovského absolutismu
+	- centralizovaná rakouská vláda, X svoboda slova
+	- deportace
+	- pohřeb demonstrace
+- **Romantismus**, počátky realismu
+- Obrazy z Rus, Epigramy, Král Vávra
+## Tyrolské Elegie
+- žalozpěv
+- epická, satirická skladba
+- autobiografie
+- 9 zpěvů, retrospektivní (popis Měsíci)
+- jednoduchý rytmus, jazyk, rýmy
+- motivy uvěznění, politická persekuce, stesk, strach, rodina, domov, policie
+- ironie, sarkasmus, archaismy, novinářský slang, nadsázka
+- trochej, ABCB
+
+## Křest svatého Vladimíra
+- epická, veršovaná satirická básnická skladba
+- odpor proti násilí, kritika carské vlády, církve
+- chronologické, rým ABCB
+- 9 zpěvů, čtyřverší, makarónský poslední = latinsko-české dvojverše
+	- Car Vladimír = namyšlený, krutý, hloupý, absolutismus
+	- Perun = neškodný, poddaný režimu
+- sluha bůh Perun, Car chce zahřmít, Perun odmítne
+- odsouzen k smrti
+- hledají nového boha, aby udrželi poslušnost lidu
+- světství běží dál, církev ale zaostává

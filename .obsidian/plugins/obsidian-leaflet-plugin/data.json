@@ -1,0 +1,299 @@
+{
+  "mapMarkers": [
+    {
+      "id": "města",
+      "lastAccessed": 1746970613551,
+      "markers": [
+        {
+          "id": "ID_28ea38287809",
+          "type": "default",
+          "loc": [
+            -0.5323028564453125,
+            1.059326171875
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Milis",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbcb69dbf98a",
+          "type": "default",
+          "loc": [
+            -0.3100128173828125,
+            1.1833102833708096
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Nyssa’relle",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_299b199a9b4b",
+          "type": "default",
+          "loc": [
+            -0.5658721923828125,
+            1.3846266864268193
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Lethariel",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9ca4aba488b",
+          "type": "default",
+          "loc": [
+            -0.516510009765625,
+            1.247582149427637
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "\nLes Krvavých Slz\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_295a7b2a89ab",
+          "type": "default",
+          "loc": [
+            -0.602447509765625,
+            1.2143518755110385
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Hvozd Písní ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_788b9b68fafb",
+          "type": "default",
+          "loc": [
+            -0.627838134765625,
+            0.8273169204824202
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Barganar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b3b483b1908",
+          "type": "default",
+          "loc": [
+            -0.6430206298828125,
+            1.1003072618560916
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Calrodel",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9e8297aeae8",
+          "type": "default",
+          "loc": [
+            -0.78125,
+            0.974607778004906
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.450360272868693,
+            0.34782608695652173
+          ],
+          "description": "Laeral",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb5acaf8f82b",
+          "type": "default",
+          "loc": [
+            -0.8656768798828125,
+            1.090666202473426
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Keldwin",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aab98b09ea9b",
+          "type": "default",
+          "loc": [
+            -1.0434112548828125,
+            0.9988389845666394
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Daldaro",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9ca39399ba9",
+          "type": "default",
+          "loc": [
+            -1.1859893798828125,
+            1.033046619480785
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bertel",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_383be98bfb09",
+          "type": "default",
+          "loc": [
+            -1.2421875,
+            1.0380859375
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5023629489603024,
+            0.5380710659898477
+          ],
+          "description": "Tartis",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab58d9b87b68",
+          "type": "default",
+          "loc": [
+            -1.2890625,
+            0.8642649989779232
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.399371551874275,
+            0.5739130434782609
+          ],
+          "description": "Yngreaal",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28e9482909cb",
+          "type": "default",
+          "loc": [
+            -0.4555206298828125,
+            0.913806182287408
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "\nDor’nellan\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8aaab5b4b0a",
+          "type": "default",
+          "loc": [
+            -0.436431884765625,
+            0.4854881055805397
+          ],
+          "layer": "m%C4%9Bsta.png",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Blatanské pohoří",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "----------------------------------/DnD/Pathfinder/Mapa.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

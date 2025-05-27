@@ -1,0 +1,23 @@
+- epika (druh)
+- povídka (žánr)
+- realismus, prvky naturalismu (směr)
+- Srovnání společenských vrstev
+- stále aktuální
+- kritika pokrytectví, proměnlivosit lidského chování, předsudků
+- morální hodnoty v mezních situacích
+- er-forma, objektivní a kritický pohled vypravěče, satira, hovorová řeč, nářečí
+- realistický styl, důraz na typizaci postav
+- Prusko-Francouzská válka, 1870, Normandie
+- členění na odstavce, chronologicky
+- Cesta dostavníkem pryč z Francie
+- postavy = typizace postav
+	- **Kulička:** prostitutka, obětavá, laskavá, morální, vlastenec, obětuje se pro druhé
+	- Politicky angažovaný muž, alkoholik, snílek
+	- Zástupci měšťanstva a aristokracie, pokrytečtí, využívají Kuličku a opovrhují jí
+	- jeptišky
+	- **Pruský důstojník:** tvrdohlavý, využívá moc s vydírání, stále ale trochu lidský
+- Cesta skupiny lidí dostavníkem bězem Prusko-Francouzské války
+- prostitutka Kulička
+- podelí se o jídlo, na které ostatní zapomněli
+- hostinec, pruský důstojník
+- nakonec jí nikdo jídlo nenabídne, zůstává sama

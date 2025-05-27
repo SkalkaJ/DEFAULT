@@ -1,0 +1,26 @@
+- Americký prozaik a dramatik
+- Kalifornie, tam většina života
+- studium biologie, literatury, řada zaměstnání - nakonec spisovatel
+- psal sociálně kritické romány
+- osudy prostých lidí
+- meziválečná literatura, působil jako válečný zpravodaj
+- Hrozny hněvu, Na východ od ráje
+## O myších a lidech
+- epická próza, sociálněkritická novela
+- námezní dělníci, jejich životy
+- realismus, prvky naturalismu
+- er-forma, nezaujatý vševědoucí vypravěč, vnitřní perspektiva postav
+- nespisovný jazyk, slang, spisovný vypravěč, dialogy, bez úvah, dobrá atmosféra
+- 6 kapitol, chronologický děj, retrospektivy, kontrasty
+- poukázání na nenaplněný americký sen
+- Kalifornie 30. léta 20. st.
+	- George Milton = chudý, inteligentní, ochotný
+	- Lennie Small = fyzicky silný, nevyvynutý
+	- Candy = starý zmrzačený dělník, pes
+	- Curley = syn majitele, zmrd
+	- Curleyho žena = osamělá, nešťastná, touží po pozornosti
+	- Crooks = černoch, inteligentní, diskriminovaný
+	- Slim = respektovaný dělník, spravedlivý, rozumný
+- SNY Myšlenka nového domova pro všechny, postupně se začíná znít reálným. Na konci se rozplyne.
+- všichni osamělí = město Soledat (solitude)
+- děj v kruhu

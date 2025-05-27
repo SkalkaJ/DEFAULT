@@ -1,0 +1,79 @@
+- [x] Absorb Elements
+- [ ] Alarm **MKZ**
+- [ ] Animal Friendship
+- [ ] Armor of Agathys
+- [ ] Arms of Hadar
+- [x] Bane
+- [ ] Beast Bond
+- [x] Bless
+- [ ] Burning Hands
+- [ ] Catapult
+- [ ] Cause Fear
+- [x] Ceremony
+- [ ] Chaos Bolt
+- [ ] Charm Person
+- [x] Chromatic Orb
+- [ ] Color Spray
+- [x] Command
+- [ ] Compelled Duel
+- [ ] Comprehend Languages **MKZ**
+- [x] Create of Destroy Water
+- [x] Cure Wounds
+- [x] Detect Evil and Good
+- [x] Detect Magic **MKZ**
+- [x] Detect Poison and Disease
+- [x] Disguise Self
+- [ ] Dissonant Whispers
+- [ ] Distort Value
+- [ ] Divine Favor
+- [ ] Earth Tremor
+- [ ] Ensnaring Strike
+- [ ] Entangle
+- [ ] Expeditious Retreat
+- [ ] Faerie Fire
+- [ ] False Life
+- [x] Feather Fall
+- [x] Find Familiar **MKZ**
+- [x] Fog Cloud
+- [ ] Frost Fingers
+- [ ] Gift of Alacrity
+- [ ] Goodberry
+- [ ] Grease
+- [x] Guiding Bolt
+- [ ] Hail of Thorns
+- [x] Healing Word
+- [ ] Hellish Rebuke
+- [ ] Heroism
+- [ ] Hex
+- [ ] Hunter's Mark
+- [ ] Ice Knife
+- [ ] Identify **MKZ**
+- [ ] Illusory Script
+- [x] Inflict Wounds
+- [ ] Jim's Magic Missile
+- [ ] Jump
+- [ ] Longstrider
+- [ ] Mage Armor
+- [x] Magic Missile
+- [ ] Magnify Gravity
+- [x] Protection from Evil and Good
+- [x] Purify Food and Drink
+- [ ] Ray of Sickness
+- [x] Sanctuary
+- [ ] Searing Smite
+- [x] Shield
+- [x] Shield of Faith
+- [x] Silent Image
+- [x] Silvery Barbs
+- [ ] Sleep
+- [ ] Snare
+- [ ] Speak with Animals
+- [ ] Tasha's Caustic Brew
+- [ ] Tasha's Hideous Laughter
+- [ ] Tenser's Floating Disk
+- [ ] Thunderous Smite
+- [x] Thunderwave
+- [ ] Unseen Servant
+- [ ] Witch Bolt
+- [ ] Wrathful Smite
+- [ ] Zephyr Strike

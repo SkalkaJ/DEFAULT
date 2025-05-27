@@ -8,7 +8,11 @@
   "dataview",
   "recent-files-obsidian",
   "obsidian-excalidraw-plugin",
+<<<<<<< HEAD
   "google-calendar",
   "at-symbol-linking",
   "obsidian-leaflet-plugin"
+=======
+  "google-calendar"
+>>>>>>> origin/main
 ]
