@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Keltek",
+      "path": "----------------------------------/DnD/Zig/Keltek.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "----------------------------------/DnD/Zig/Untitled.md"
+    },
+    {
+      "basename": "Ballagurio",
+      "path": "----------------------------------/DnD/Zig/Ballagurio.md"
+    },
+    {
+      "basename": "RUR",
+      "path": "----------------------------------/škola/Četba/RUR.md"
+    },
+    {
+      "basename": "Bílá Nemoc",
+      "path": "----------------------------------/škola/Četba/Bílá Nemoc.md"
+    },
+    {
       "basename": "03 Rozdělení, základy práce s operačním systém MS Windows (základní nastavení pracovní plochy, vzhledu a základního chování); aktualizace systému, ovládací panely, nástroje pro správu, správa uživatelských účtů. Ergonomie práce s PC.",
       "path": "----------------------------------/škola/IVT mat/03 Rozdělení, základy práce s operačním systém MS Windows (základní nastavení pracovní plochy, vzhledu a základního chování); aktualizace systému, ovládací panely, nástroje pro správu, správa uživatelských účtů. Ergonomie práce s PC..md"
+    },
+    {
+      "basename": "07 HW počítače – složení PC a základní parametry jednotlivých komponent; periferní zařízení počítače (tiskárny, monitory, scannery); periferie.",
+      "path": "----------------------------------/škola/IVT mat/07 HW počítače – složení PC a základní parametry jednotlivých komponent; periferní zařízení počítače (tiskárny, monitory, scannery); periferie..md"
     },
     {
       "basename": "Lidi",
@@ -15,10 +43,6 @@
     {
       "basename": "K. Čapek",
       "path": "----------------------------------/škola/Četba/K. Čapek.md"
-    },
-    {
-      "basename": "Ballagurio",
-      "path": "----------------------------------/DnD/Zig/Ballagurio.md"
     },
     {
       "basename": "Rhys",
@@ -95,14 +119,6 @@
     {
       "basename": "J. Steinback",
       "path": "----------------------------------/škola/Četba/J. Steinback.md"
-    },
-    {
-      "basename": "RUR",
-      "path": "----------------------------------/škola/Četba/RUR.md"
-    },
-    {
-      "basename": "Bílá Nemoc",
-      "path": "----------------------------------/škola/Četba/Bílá Nemoc.md"
     },
     {
       "basename": "Moderní trendy v IT",
@@ -183,22 +199,6 @@
     {
       "basename": "O. Wilde",
       "path": "----------------------------------/škola/Četba/O. Wilde.md"
-    },
-    {
-      "basename": "Edgar Allan Poe",
-      "path": "----------------------------------/škola/Četba/Edgar Allan Poe.md"
-    },
-    {
-      "basename": "Moliere",
-      "path": "----------------------------------/škola/Četba/Moliere.md"
-    },
-    {
-      "basename": "Obraz Doriana Graye",
-      "path": "----------------------------------/škola/Četba/Obraz Doriana Graye.md"
-    },
-    {
-      "basename": "Jáma a Kyvadlo",
-      "path": "----------------------------------/škola/Četba/Jáma a Kyvadlo.md"
     }
   ],
   "omittedPaths": [],

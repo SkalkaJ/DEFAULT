@@ -26,14 +26,12 @@
             "id": "9b8faae287090acb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "----------------------------------/škola/IVT mat/03 Rozdělení, základy práce s operačním systém MS Windows (základní nastavení pracovní plochy, vzhledu a základního chování); aktualizace systému, ovládací panely, nástroje pro správu, správa uživatelských účtů. Ergonomie práce s PC..md",
-                "mode": "source",
-                "source": false
+                "file": "----------------------------------/DnD/Zig/Keltek.md"
               },
-              "icon": "lucide-file",
-              "title": "03 Rozdělení, základy práce s operačním systém MS Windows (základní nastavení pracovní plochy, vzhledu a základního chování); aktualizace systému, ovládací panely, nástroje pro správu, správa uživatelských účtů. Ergonomie práce s PC."
+              "icon": "excalidraw-icon",
+              "title": "Keltek"
             }
           },
           {
@@ -322,15 +320,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "911c60dfe9d71a97",
+  "active": "e12f941a338cfce1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "----------------------------------/DnD/Zig/Untitled.md",
+    "----------------------------------/DnD/Zig/Keltek.md",
+    "----------------------------------/DnD/Zig/Ballagurio.md",
+    "----------------------------------/škola/Četba/RUR.md",
+    "----------------------------------/škola/Četba/Bílá Nemoc.md",
+    "----------------------------------/škola/IVT mat/03 Rozdělení, základy práce s operačním systém MS Windows (základní nastavení pracovní plochy, vzhledu a základního chování); aktualizace systému, ovládací panely, nástroje pro správu, správa uživatelských účtů. Ergonomie práce s PC..md",
+    "----------------------------------/škola/IVT mat/07 HW počítače – složení PC a základní parametry jednotlivých komponent; periferní zařízení počítače (tiskárny, monitory, scannery); periferie..md",
     "Lidi.md",
     "conflict-files-obsidian-git.md",
     "----------------------------------/škola/Četba.md",
     "----------------------------------/škola/Četba/K. Čapek.md",
-    "----------------------------------/DnD/Zig/Ballagurio.md",
     "Štěpán heslo mc.md",
-    "Untitled.md",
     "Oli.md",
     "Obh 1.md",
     "2025-05-20.md",
@@ -345,12 +349,6 @@
     "----------------------------------/škola/Trash/bs3_1.gif",
     "----------------------------------/škola/IVT mat/14 Bezpečné Digitální Prostředí.md",
     "----------------------------------/škola/IVT mat/24 TeX.md",
-    "----------------------------------/škola/IVT mat/23 Zpracování textu textovými procesory.md",
-    "----------------------------------/škola/IVT mat/22 3D prostor.md",
-    "----------------------------------/škola/IVT mat/18 Prezentační software.md",
-    "----------------------------------/škola/IVT mat/19 Moderní trendy.md",
-    "----------------------------------/škola/IVT mat/25 Tabulkové kalkulátory.md",
-    "Excalidraw/Drawing 2025-05-26 09.39.06.excalidraw.md",
     "----------------------------------/škola/IVT mat/AI.svg",
     "----------------------------------/škola/IVT mat/Graf.png",
     "----------------------------------/škola/IVT mat/Sample_doc.png",
