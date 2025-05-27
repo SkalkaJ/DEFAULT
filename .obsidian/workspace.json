@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "9b8faae287090acb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "----------------------------------/DnD/Zig/Keltek.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Keltek"
-            }
-          },
-          {
             "id": "3163ea594c5d140b",
             "type": "leaf",
             "state": {
@@ -320,7 +308,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e12f941a338cfce1",
+  "active": "3163ea594c5d140b",
   "lastOpenFiles": [
     "Untitled.md",
     "----------------------------------/DnD/Zig/Untitled.md",
