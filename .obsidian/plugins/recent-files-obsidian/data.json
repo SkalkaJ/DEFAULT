@@ -9,6 +9,14 @@
       "path": "Untitled.md"
     },
     {
+      "basename": "Štěpán heslo mc",
+      "path": "Štěpán heslo mc.md"
+    },
+    {
+      "basename": "2025-03-27",
+      "path": "----------------------------------/DnD/Zig/2025-03-27.md"
+    },
+    {
       "basename": "Keltek",
       "path": "----------------------------------/DnD/Zig/Keltek.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Malý Princ",
       "path": "----------------------------------/škola/Četba/Malý Princ.md"
-    },
-    {
-      "basename": "O. Wilde",
-      "path": "----------------------------------/škola/Četba/O. Wilde.md"
     }
   ],
   "omittedPaths": [],
