@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🪹",
       "LiAmbulance",
       "LiClipboardList",
       "LiBookA",
-      "LiTrash",
-      "LiDrama"
+      "LiTrash"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,7 +52,10 @@
   "-----------------------------------/log": "LiLogs",
   "----------------------------------/DnD/Zig": "LiAmbulance",
   "----------------------------------/škola/Trash": "LiTrash",
-  "----------------------------------/škola/Četba/Četba.md": "LiBookA",
   "----------------------------------/Seznamy": "LiClipboardList",
-  "----------------------------------/People": "LiDrama"
+  "----------------------------------/People": "LiDrama",
+  "----------------------------------/People/Lidi.md": "LiDrama",
+  "----------------------------------/škola/Četba.md": "LiBookA",
+  "----------------------------------/DnD/Tma": "🪹",
+  "----------------------------------/škola/IVT mat.md": "LiBookA"
 }

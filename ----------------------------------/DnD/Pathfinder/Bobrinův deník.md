@@ -3,6 +3,7 @@ Dorazili jsme s praporem do [[Tardis]].
 Tam jsme strávili tři dny různými pracemi, já jsem se věnoval pylnému studiu nových kouzel od místního čaroděje. Jo a taky jsem si koupil tuhle blboknížečku.
 Místní čaroděj je pěknej debil, taky studoval na [[Barganar]]u.
 Ten čaroděj je vtipnej, někdy se musím zase stavit na čaj. Bude mít radost. A taky možná dostanu fireball do obličeje... To kouzlo se chci naučit.
+
 ### 28.10.1859:
 Vyrazili jsme z [[Tardis]].
 Dorazili jsme do větší vesnice [[Bertel]], hospoda u krále Trotla (Torta) - hospodský prase
@@ -55,3 +56,21 @@ Napadli nás nějací kokoti: Mám jít za felčarem v 15. ulici, léčení na j
 
 ### 9.11.1859
 Vyrážíme na východ
+Večer jsme dorazili do [[Merila]]y
+
+Les písní: Teď se mu říká "Les Krvavých Slz", prý tak stromy slzí krev.
+Divnej cápek Elarand, motá se kolem toho lesa: od náměstí asi čtvrtá ulice, malá chajda, říká si "sběrač rosy"
+
+### 10.11.1859
+Vydali jsme se za Elrandem:
+Prý les opustili druidi, rozdělili se... část z nich šla do blízké vsi Kalroder
+Říká se, že les hlídají driády.
+Pak jsme se vydali do té vsi.
+
+Zachránili jsme vesnici od útoku z lesa, útočili Leshy a nějací asi druidi.
+Jednoho temnýho druida jsme nechali přežít.
+- Zavřeli jsme ho do cely
+- Radní nám poskytla ubytování a jídlo
+
+### 11.11.1859
+Ráno jsme vyslechli toho blbečka

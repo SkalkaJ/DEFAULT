@@ -4,24 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "c65200a812276feb",
+        "id": "488c83da3f6ef0cb",
         "type": "tabs",
+        "dimension": 65.5,
         "children": [
           {
-            "id": "6fb5f747d67d15a3",
+            "id": "3163ea594c5d140b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lidi.md",
-                "mode": "preview",
+                "file": "----------------------------------/DnD/Zig/Ballagurio.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lidi"
+              "title": "Ballagurio"
+            }
+          },
+          {
+            "id": "ca80833bbb8d3d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/škola/Četba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Četba"
+            }
+          },
+          {
+            "id": "fa9cdf3bcf31e5d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/škola/Četba/K. Čapek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K. Čapek"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e62e487d4d12a034",
+        "type": "tabs",
+        "dimension": 34.5,
+        "children": [
+          {
+            "id": "4d9023133a08666d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/škola/Četba/Bílá Nemoc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bílá Nemoc"
+            }
+          },
+          {
+            "id": "471dac4dd522c7a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/škola/Četba/RUR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RUR"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 242.5
   },
   "right": {
     "id": "f14789f766825e47",
@@ -145,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
+                "file": "----------------------------------/DnD/Zig/Ballagurio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bobrinův deník"
+              "title": "Backlinks for Ballagurio"
             }
           },
           {
@@ -164,11 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "----------------------------------/DnD/Zig/Ballagurio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Ballagurio"
             }
           },
           {
@@ -237,56 +304,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6fb5f747d67d15a3",
+  "active": "ca80833bbb8d3d4f",
   "lastOpenFiles": [
-    "----------------------------------/People/Filip.md",
-    "----------------------------------/People/Eurius.md",
-    "----------------------------------/People/Erin.md",
-    "----------------------------------/People/DomčaK.md",
-    "----------------------------------/People/Domča.md",
-    "().md",
-    "----------------------------------/People/Bláža.md",
-    "----------------------------------/People/Alex.md",
-    "Lidi.md",
-    "----------------------------------/People/Zůza.md",
-    "----------------------------------/People/Xandra.md",
-    "----------------------------------/People/Vítek.md",
-    "----------------------------------/People/TomášD.md",
-    "----------------------------------/People/Rozka.md",
-    "----------------------------------/People/Petr_K..md",
-    "----------------------------------/People/Monča.md",
-    "----------------------------------/People/Pája.md",
-    "----------------------------------/People/Maty.md",
-    "----------------------------------/People/Matouš.md",
-    "----------------------------------/People/Matík.md",
-    "----------------------------------/People/MartinN..md",
-    "----------------------------------/People/Lukášek.md",
-    "----------------------------------/People/Lída.md",
-    "----------------------------------/People/Libuna.md",
-    "----------------------------------/People/KryštofT..md",
-    "----------------------------------/People/Kryštof.md",
-    "----------------------------------/People",
-    "----------------------------------/Seznamy",
-    "-----------------------------------/Bordel/Pasted image 20250420114115.png",
-    "Pasted image 20250415075552.png",
-    "Records/11.4 PF2e/Barganar-Erbiros.mp3",
-    "Records/11.4 PF2e/Record 2025-04-11 at 19h02m52s.mp3",
-    "Records/11.4 PF2e/Record 2025-04-11 at 17h25m04s.mp3",
-    "Records/11.4 PF2e",
-    "Records/New folder",
-    "Records/Record 2025-04-03 at 13h17m50s.mp3",
-    "Records/24.3/24.3.2025 - Boj o Forge.wav",
-    "Records/Record 2025-03-28 at 19h00m41s.mp3",
-    "----------------------------------/DnD/bordel/Pasted image 20250324193918.png",
-    "----------------------------------/DnD/bordel/Pasted image 20250324183536.png",
-    "----------------------------------/DnD/bordel/Pasted Image 20250324184634_778.png",
-    "----------------------------------/DnD/bordel/Pasted image 20250324185245.png",
-    "Pasted image 20250324184227.png",
-    "----------------------------------/škola/Trash/AGC_20250324_103519591.jpg",
-    "----------------------------------/škola/Trash/AGC_20250324_102246864.jpg",
-    "----------------------------------/škola/Trash/AGC_20250324_102253544.jpg"
+    "----------------------------------/DnD/Zig/Ballagurio.md",
+    "----------------------------------/DnD/Zig/Rhys.md",
+    "Koleje.md",
+    "----------------------------------/škola/IVT mat.md",
+    "----------------------------------/škola/Četba.md",
+    "----------------------------------/škola/Četba/K. Čapek.md",
+    "----------------------------------/škola/IVT mat/01 Základní pojmy informatiky, ukládání dat, architek.md",
+    "{{title}}.md",
+    "KINDLE.md",
+    "----------------------------------/škola/IVT mat/Návrh HW a SW pro různé typy využití PC.md",
+    "----------------------------------/škola/IVT mat/RAID.md",
+    "Untitled.md",
+    "----------------------------------/škola/Trash/bs3_1.gif",
+    "----------------------------------/škola/IVT mat/14 Bezpečné Digitální Prostředí.md",
+    "----------------------------------/škola/IVT mat/24 TeX.md",
+    "----------------------------------/škola/IVT mat/23 Zpracování textu textovými procesory.md",
+    "----------------------------------/škola/IVT mat/22 3D prostor.md",
+    "----------------------------------/škola/IVT mat/18 Prezentační software.md",
+    "----------------------------------/škola/IVT mat/19 Moderní trendy.md",
+    "----------------------------------/škola/IVT mat/25 Tabulkové kalkulátory.md",
+    "Excalidraw/Drawing 2025-05-26 09.39.06.excalidraw.md",
+    "----------------------------------/škola/Četba/K.H.Borovský.md",
+    "----------------------------------/škola/Četba/J. Steinback.md",
+    "----------------------------------/škola/Četba/RUR.md",
+    "----------------------------------/škola/Četba/Bílá Nemoc.md",
+    "----------------------------------/škola/Moderní trendy v IT.md",
+    "----------------------------------/škola/IVT mat/16.md",
+    "----------------------------------/škola/IVT mat/AI.svg",
+    "----------------------------------/škola/IVT mat/Graf.png",
+    "----------------------------------/škola/IVT mat/Sample_doc.png",
+    "----------------------------------/škola/IVT mat/Model_errors.png",
+    "----------------------------------/škola/IVT mat/Model_slozeni.png",
+    "----------------------------------/škola/IVT mat/DocumentProperties.png",
+    "----------------------------------/škola/IVT mat/Opacity.png",
+    "----------------------------------/škola/IVT mat/bad.png",
+    "----------------------------------/škola/IVT mat/good.png",
+    "----------------------------------/škola/IVT mat/24",
+    "----------------------------------/škola/IVT mat/23",
+    "----------------------------------/škola/IVT mat/22",
+    "----------------------------------/škola/IVT mat/21",
+    "----------------------------------/škola/IVT mat/20",
+    "----------------------------------/škola/IVT mat/19",
+    "----------------------------------/škola/IVT mat/18",
+    "----------------------------------/škola/IVT mat/17",
+    "----------------------------------/škola/IVT mat/16",
+    "----------------------------------/škola/IVT mat/15"
   ]
 }

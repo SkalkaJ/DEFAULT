@@ -1,3 +1,21 @@
+## Autor
+- Americký prozaik, básník
+- romantismus
+- zychycuje vnitřní stavy postav, tajemnou atmosféru a hrůzu z lidské zloby
+- americký romantismus, prvky dekadence a symbolismu
+	- 
+- dítě kočovných herců, otec alkoholik, matkaa brzo zemřela
+- sirotčinec, rodina velkoobchodníků, internátní škola ve Skotsku a Londýně
+- oženil se se 13 letou sestřenicí a přestěhoval se do NY
+- po smrti ženy začal pít a duševně chátrá, zemřel hospitalizován v kómatu
+- mnoho hororových povídek, básnické sbírky a eseje
+
+## Dílo
+- epická próza, hororová povídka
+- ich-forma, monology, spisovné
+- vězeň zoufalý, vynalézavý, síla vůle
+- období inkvizice
+
 ### Základní info
 - Americký romantický básník, prozaik
 - Zakladatelem detektivního a hororového žánru, zakladatel americké novely

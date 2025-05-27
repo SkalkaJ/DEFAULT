@@ -1,3 +1,29 @@
+## Shrnutí
+- Francouzský spisovatel, básník, letec
+- Humanista = vidět v dílech
+- meziválečná literatura, vlastenecké prvky, nenávist války, totality
+- Lyon, aristokratická rodina, studium architektury
+- pilot v letectvu -> v tvorbě, působil b%ehem 2.SV
+- Zahynul při průzkumném letu
+- Několik významných leteckých knih -> Noční let, Země lidí, Letec, kurýr na jih, Citadela
+- vytýkal jednostanné vnímání společnosti
+## Malý Princ
+- epická, filozofická pohádka
+- meziválečná literatura, existencialismus
+- zkoumání dětské představivosti a fantazie
+- hodnota přátelství, lidské povahy
+- chronologická, er-forma, retrospektivní ich-forma
+- spisový jazyk, jednoduchý, pohled autory, biografie
+- víceznačná mluva (hádanky)
+	- Malý Princ
+	- Letec
+	- Růže
+	- Král, domýšlivec, pijan, byznysman, lampář, zeměpisec = karikatury
+	- Liška
+	- Had
+- děj
+
+
 ### Základní Info
 - Francouzský prozaik, publicista a letec
 - Narozen v Lyoně, šlechtický původ
