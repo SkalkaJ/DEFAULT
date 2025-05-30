@@ -1,3 +1,7 @@
+## Shrnutí
+- DJC, založeno 1967
+- 
+
 ### Ladislav Smolijak
 - učitel matematiky a fyziky
 - dramatik a režisér

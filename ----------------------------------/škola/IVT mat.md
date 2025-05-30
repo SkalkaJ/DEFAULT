@@ -207,7 +207,7 @@
 ## 21
 - 
 ## 22
-- Modelování, CAD = software
+- Modelování, CAD = softwareů§ůl
 - TinkerCAD - v prohlížeči, jednoduchý
 - OpenSCAD - open source, tvorba na základě skriptu
 - Blender - pro 3D tvorbu obecně, hlavně rendery, stínování

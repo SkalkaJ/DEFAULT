@@ -1,3 +1,46 @@
+## Shrnutí
+- Podkrkonoší, lékařská rodina
+- Bratr Josef a sestra Helena
+- vystudoval filozofickou fakultu
+- vychovatel u hraběte, pak novinář
+- Významný novinář = práce pro dobu - Lidové noviny, Národní listy
+- skupina Pátečníků - Masaryk
+- manželka Olga - pohádky
+- po válce cestoval - Výlet do Španěl
+- **Pragmatismus-** všechno subjektivní, žádná absolutní pravda
+- **Rozvoj Techniky-** uchvácen, ale varuje, zneužití člověkem, duchovní vývoj pomalý
+- **Obyčejná práce-** důraz
+- **Humanista, demokrat-** apeluje na snášenlivost lidí
+	- 10. léta povídky = Krakonošova zahrada, s bratrem, Boží 
+	- 20.léta romány = varování před technologickým pokrokem, Továrna na absolutno, Krakatit, noetická trilogie -> pragmatismus
+	- 30. léta romány, dramata -> varování před totalitou, fašismem, válkou
+- apokryfy, cestopisy, překlady
+
+## R.U.R
+- drama
+- antiutopická tragédie
+- česká meziválečná moderna, demokratický proud, sci-fi
+- tři dějství, chronologická, scény s promluvami postav
+- dialogy, srozumitelný jazyk, místy odborný, ironie a metafory
+- úvahy o smyslu života, pokrok a odpovědnost
+	- Domin - ředitel, věří v osvobození lidstva od práce
+	- Helena - citlivá, snaží se pomoci robotům, lidský element
+	- Vědci Gall, Hallemeier, Fabry, Alquist - inženýři, vědci, různé pohledy k technice a lidství
+	- Radius, Primus, Helena - roboti, kteří začínají cítit
+	- Rossum - zakladatel továrny, vědecký fanatismus, touha po moci
+- děj
+## Bílá Nemoc
+- drama
+- tragédie
+- 3 dějství, dialogy charakterizující postavy a jejich motivace
+- spisovný jazyk, ironie, kritika společnosti
+- svižné, s důrazem na morální dilemata
+- společenská odpovědnosti
+	- Galén - lékař, pomáhá chudým, idealista, zásadový, je schopen obětovat vše pro mír
+	- Maršál - chladný, bezohledný, fašistický vůdce
+	- Baron Krüg - zbrojař, podporovatel systému, bojí se vzepřít
+- děj
+---
 ## Život
 - Narozen v Podkrkonoší do rodiny lékařů
 - Bratr Josef - známý malíř a sestra Helena

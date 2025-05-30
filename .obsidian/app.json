@@ -1,5 +1,13 @@
 {
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false
 }

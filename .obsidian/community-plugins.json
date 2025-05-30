@@ -1,18 +1,16 @@
 [
-  "obsidian-git",
-  "obsidian-dice-roller",
-  "calendar",
-  "highlightr-plugin",
-  "calendarium",
-  "obsidian-icon-folder",
-  "dataview",
-  "recent-files-obsidian",
-  "obsidian-excalidraw-plugin",
-<<<<<<< HEAD
-  "google-calendar",
   "at-symbol-linking",
-  "obsidian-leaflet-plugin"
-=======
-  "google-calendar"
->>>>>>> origin/main
+  "calendar",
+  "calendarium",
+  "dataview",
+  "obsidian-dice-roller",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "google-calendar",
+  "highlightr-plugin",
+  "obsidian-icon-folder",
+  "obsidian-leaflet-plugin",
+  "vault-nickname",
+  "super-duper-audio-recorder",
+  "recent-files-obsidian"
 ]

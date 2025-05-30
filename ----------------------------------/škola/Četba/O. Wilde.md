@@ -2,7 +2,7 @@
 - Irský novinář, spisovatel, dramatik, esejista, básník
 - bohatá rodina, dokončil studium na Oxfordu
 - žurnalistika a estetika, špička v oboru
-- dicadelní hry (Filip), i povídky pro děti, dekadentní pohádky
+- divadelní hry (Filip), i povídky pro děti, dekadentní pohádky
 - estéctví = umění má být krásné
 - 2 roky ve vězení za homosexualitu
 - dožívá v chudobě v Paříži
