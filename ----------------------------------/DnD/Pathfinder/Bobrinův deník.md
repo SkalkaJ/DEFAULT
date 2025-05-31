@@ -79,7 +79,26 @@ Ráno jsme vyslechli toho blbečka
 - Je docela fucked up
 - chtějí zabíjet a rozšiřovat se
 - zabít celé lidstvo, které škodí přírodě
+- pracují na něčem jako zbraň
 - EKOTERORISTIII
 
 Jdeme za druidečkama-blbečkama
+- starali se tam o poslední volnou přírodu na kontinentu
+- všechno mělo právo tam žít přirozeným životem
+- driády mají královnu
+- prý nechtěli ubližovat, jen bránili
+- Azdrev, Tahal a ???
+- kruh tlapy = starali se o zvěř
+- byl tam i kruh listí = starali se o rostliny, neví jestli ještě někde zbytky jsou
+- 5 let dozadu zradili královnu a uvěznili jí v jejím vlastním stromě - driády s ní sdílí osud a také jsou uvězněny a nejsou schopny chránit les
+- začala se rozmáhat podivná magie zneužijívající přírodu
+- byl vytvořen nový kruh trní, který vyhnal zbytek
+- Vede tam Arkar, byl mladej
+- Ten kamarád se jmenuje Plížil = prastaré stvoření
+- Pracují s dušema => tvoří leshie, nedobrovolně
+
+plánování:
+- zachránít královnu - neví jak, ani netušil že to jde
+- možná nory, kudy se dá chodit = můžeme se dostat pod ní
+- pozor na Plížila
 - 
