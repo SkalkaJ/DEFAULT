@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Četba 1",
-      "path": "----------------------------------/škola/Četba 1.md"
+      "basename": "Bobrinův deník",
+      "path": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md"
     },
     {
-      "basename": "Četba",
-      "path": "----------------------------------/škola/Četba.md"
+      "basename": "Zápisy",
+      "path": "----------------------------------/DnD/Pathfinder/Zápisy.md"
+    },
+    {
+      "basename": "SERVER",
+      "path": "SERVER.md"
+    },
+    {
+      "basename": "Lidi",
+      "path": "----------------------------------/People/Lidi.md"
+    },
+    {
+      "basename": "RAID",
+      "path": "----------------------------------/škola/IVT mat/RAID.md"
+    },
+    {
+      "basename": "IVT mat",
+      "path": "----------------------------------/škola/IVT mat.md"
+    },
+    {
+      "basename": "ČEŠTINA MATURITA",
+      "path": "----------------------------------/škola/ČEŠTINA MATURITA.md"
     },
     {
       "basename": "Četba table",
       "path": "----------------------------------/škola/Četba table.md"
     },
     {
-      "basename": "IVT mat",
-      "path": "----------------------------------/škola/IVT mat.md"
+      "basename": "Četba 1",
+      "path": "----------------------------------/škola/Četba 1.md"
+    },
+    {
+      "basename": "Četba",
+      "path": "----------------------------------/škola/Četba.md"
     },
     {
       "basename": "01 Základní pojmy informatiky, ukládání dat, architek",
@@ -137,10 +161,6 @@
       "path": "----------------------------------/škola/Četba/Z. Svěrák, L. Smoljak.md"
     },
     {
-      "basename": "ČEŠTINA MATURITA",
-      "path": "----------------------------------/škola/ČEŠTINA MATURITA.md"
-    },
-    {
       "basename": "A. Weir",
       "path": "----------------------------------/škola/Četba/A. Weir.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "O. Wilde",
       "path": "----------------------------------/škola/Četba/O. Wilde.md"
-    },
-    {
-      "basename": "Edgar Allan Poe",
-      "path": "----------------------------------/škola/Četba/Edgar Allan Poe.md"
-    },
-    {
-      "basename": "K.H.Borovský",
-      "path": "----------------------------------/škola/Četba/K.H.Borovský.md"
-    },
-    {
-      "basename": "Gogol",
-      "path": "----------------------------------/škola/Četba/Gogol.md"
-    },
-    {
-      "basename": "Saturnin",
-      "path": "----------------------------------/škola/Četba/Saturnin.md"
-    },
-    {
-      "basename": "Guy de Maupassant",
-      "path": "----------------------------------/škola/Četba/Guy de Maupassant.md"
     }
   ],
   "omittedPaths": [],

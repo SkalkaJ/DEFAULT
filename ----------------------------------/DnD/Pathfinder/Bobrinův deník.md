@@ -74,3 +74,9 @@ Jednoho temnýho druida jsme nechali přežít.
 
 ### 11.11.1859
 Ráno jsme vyslechli toho blbečka
+- Je docela fucked up
+- chtějí zabíjet a rozšiřovat se
+- zabít celé lidstvo, které škodí přírodě
+- EKOTERORISTIII
+Jdeme za druidečkama-blbečkama
+- 
