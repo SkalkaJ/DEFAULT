@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "IVT mat",
+      "path": "----------------------------------/škola/IVT mat.md"
+    },
+    {
+      "basename": "Obh 1",
+      "path": "Obh 1.md"
+    },
+    {
       "basename": "Bobrinův deník",
       "path": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "RAID",
       "path": "----------------------------------/škola/IVT mat/RAID.md"
-    },
-    {
-      "basename": "IVT mat",
-      "path": "----------------------------------/škola/IVT mat.md"
     },
     {
       "basename": "ČEŠTINA MATURITA",
@@ -195,10 +199,6 @@
     {
       "basename": "Obraz Doriana Graye",
       "path": "----------------------------------/škola/Četba/Obraz Doriana Graye.md"
-    },
-    {
-      "basename": "O. Wilde",
-      "path": "----------------------------------/škola/Četba/O. Wilde.md"
     }
   ],
   "omittedPaths": [],
