@@ -5,6 +5,10 @@
       "path": "2025-05-20.md"
     },
     {
+      "basename": "2025-06-11",
+      "path": "2025-06-11.md"
+    },
+    {
       "basename": "IVT mat",
       "path": "----------------------------------/škola/IVT mat.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "E. Hemingway",
       "path": "----------------------------------/škola/Četba/E. Hemingway.md"
-    },
-    {
-      "basename": "Exupéry",
-      "path": "----------------------------------/škola/Četba/Exupéry.md"
     }
   ],
   "omittedPaths": [],
