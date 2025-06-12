@@ -4,39 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "fd8ecd12cbd5d8ab",
+        "id": "3708ff128ca9654c",
         "type": "tabs",
         "children": [
           {
-            "id": "7a6a2ba6a26079ca",
+            "id": "02bf08b1209f9dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
+                "file": "----------------------------------/DnD/Zig/Ballagurio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bobrinův deník"
+              "title": "Ballagurio"
             }
           },
           {
-            "id": "0fccc50dd5a1897b",
+            "id": "e7ca2f4cda126eb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
+                "file": "----------------------------------/DnD/Zig/Rhys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bobrinův deník"
+              "title": "Rhys"
+            }
+          },
+          {
+            "id": "d2c980225eea2cd7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,14 +246,31 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0fccc50dd5a1897b",
+  "active": "911c60dfe9d71a97",
   "lastOpenFiles": [
+    "----------------------------------/DnD/Zig/Rhys.md",
+    "----------------------------------/DnD/Zig/Ballagurio.md",
+    "----------------------------------/DnD/Zig/Výprava do Westray.md",
+    "----------------------------------/DnD/Pathfinder/phenovo_deti.png",
+    "Močály2.png",
+    "SERVER.md",
+    "Močály1.png",
+    "KINDLE.md",
+    "-----------------------------------/Archive/Obh 1.md",
+    "Untitled.md",
+    "-----------------------------------/Archive",
+    "Oli.md",
+    "----------------------------------/void/2025-06-03.md",
+    "----------------------------------/void/2025-03-23.md",
+    "----------------------------------/void/2025-05-20.md",
+    "----------------------------------/void/Untitled.md",
+    "----------------------------------/Void 1",
+    "-----------------------------------/Archive/Koleje.md",
+    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
     "----------------------------------/DnD/Pathfinder/makesweet-d1ceg9.gif",
     "----------------------------------/DnD/Pathfinder/makesweet-ydi6ek.gif",
     "----------------------------------/DnD/Pathfinder/plížil.png",
     "----------------------------------/DnD/Pathfinder/Zápisy.md",
-    "SERVER.md",
-    "----------------------------------/DnD/Pathfinder/Bobrinův deník.md",
     "----------------------------------/People/Lidi.md",
     "----------------------------------/škola/IVT mat/RAID.md",
     "----------------------------------/škola/IVT mat.md",
@@ -255,35 +281,17 @@
     "----------------------------------/škola/IVT mat/01 Základní pojmy informatiky, ukládání dat, architek.md",
     "----------------------------------/škola/IVT mat/25 Tabulkové kalkulátory.md",
     "----------------------------------/škola/IVT mat/24 TeX.md",
-    "----------------------------------/škola/IVT mat/23 Zpracování textu textovými procesory.md",
-    "----------------------------------/škola/IVT mat/22 3D prostor.md",
-    "----------------------------------/škola/IVT mat/21.md",
-    "----------------------------------/škola/IVT mat/20.md",
-    "----------------------------------/škola/IVT mat/19 Moderní trendy.md",
-    "----------------------------------/škola/IVT mat/18 Prezentační software.md",
-    "----------------------------------/škola/IVT mat/17.md",
-    "----------------------------------/škola/IVT mat/16.md",
-    "----------------------------------/škola/IVT mat/15 Internetové technologie.md",
-    "----------------------------------/škola/IVT mat/14 Bezpečné Digitální Prostředí.md",
-    "----------------------------------/škola/IVT mat/13 Internet.md",
-    "----------------------------------/škola/IVT mat/12 Počítačové sítě.md",
     "----------------------------------/škola/Četba/Dyck - Krysař.pdf",
     "----------------------------------/DnD/bordel/REDACTED2.jpg",
     "----------------------------------/DnD/bordel/REDACTED.jpg",
     "----------------------------------/DnD/Zig/DMing",
     "----------------------------------/škola/Trash/bs3_1.gif",
     "----------------------------------/škola/IVT mat/AI.svg",
-    "----------------------------------/škola/IVT mat/Graf.png",
-    "----------------------------------/škola/IVT mat/Sample_doc.png",
-    "----------------------------------/škola/IVT mat/Model_errors.png",
-    "----------------------------------/škola/IVT mat/Model_slozeni.png",
     "----------------------------------/škola/IVT mat/24",
     "----------------------------------/škola/IVT mat/23",
     "----------------------------------/škola/IVT mat/22",
     "----------------------------------/škola/IVT mat/21",
     "----------------------------------/škola/IVT mat/20",
-    "----------------------------------/škola/IVT mat/19",
-    "----------------------------------/škola/IVT mat/18",
-    "----------------------------------/škola/IVT mat/17"
+    "----------------------------------/škola/IVT mat/19"
   ]
 }

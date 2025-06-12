@@ -101,4 +101,5 @@ plánování:
 - zachránít královnu - neví jak, ani netušil že to jde
 - možná nory, kudy se dá chodit = můžeme se dostat pod ní
 - pozor na Plížila
-- 
+
+Jdem na to, připomíná mi to trpaslický pokřik "Piješ jen jednou"
