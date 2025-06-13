@@ -13,4 +13,7 @@
 ### Účty:
 Zuzka D. - 2204190028/3030
 
-### Spot
+### Spotify
+Já
+Lucka
+Štěpán
