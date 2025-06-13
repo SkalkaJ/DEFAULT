@@ -53,10 +53,14 @@
             "id": "f19512f88605e27e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "----------------------------------/Dluhy a Účty.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Dluhy a Účty"
             }
           }
         ],
